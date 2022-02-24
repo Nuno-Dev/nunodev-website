@@ -28,4 +28,16 @@
       -ms-flex-pack: center;
           justify-content: center;
 }
+
+.project-card .card-body {
+  padding-top: 20px;
+}
+
+.project-card .card-title {
+  margin-top: 0px;
+}
+
+.project-card .card-text {
+  padding: 0;
+}
 /*# sourceMappingURL=styles.css.map */
