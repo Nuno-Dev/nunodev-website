@@ -5,7 +5,7 @@
 
 #about .bio {
   margin-left: -3px;
-  font-size: 2rem;
+  font-size: 1.8rem;
   margin-bottom: 20px;
 }
 
@@ -15,5 +15,17 @@
 
 .site-footer {
   margin-top: 2rem;
+}
+
+#CVModal .modal-body {
+  padding-bottom: 0;
+}
+
+#CVModal .modal-footer {
+  padding-top: 10px;
+  padding-bottom: 30px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
 }
 /*# sourceMappingURL=styles.css.map */

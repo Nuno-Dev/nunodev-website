@@ -52,8 +52,7 @@
     <link rel="stylesheet" href="/css/styles.css" />
 
     <link rel="manifest" href="/site.webmanifest" />
-    <link rel="icon" type="image/png" href="/img/nuno.png" />
-    <link rel="apple-touch-icon" type="image/jpg" href="/img/nuno.jpg" />
+    <link rel="icon" type="image/x-icon" href="/img/nuno.jpg" />
 
     <link rel="canonical" href="https://nuno-dev.com/" />
 
@@ -102,10 +101,10 @@
             <li class="nav-item">
               <a
                 class="nav-link"
-                href="/#accomplishments"
-                data-target="#accomplishments"
+                href="/#certifications"
+                data-target="#certifications"
               >
-                <span>Accomplishments</span>
+                <span>Certifications</span>
               </a>
             </li>
 
@@ -120,6 +119,16 @@
             </li>
           </ul>
           <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a
+                class="nav-link"
+                href=""
+                data-toggle="modal"
+                data-target="#CVModal"
+              >
+                <span>Curriculum Vitae</span>
+              </a>
+            </li>
             <li class="nav-item">
               <a class="nav-link js-dark-toggle" href="#"
                 ><i class="fas fa-moon" aria-hidden="true"></i
@@ -194,7 +203,7 @@
             <h1 class="bio">Biography</h1>
 
             <p>
-              My name is Nuno, I'm a Software Developer and Competitive
+              My name is Nuno Martins, I'm a Software Developer and Competitive
               Programmer currently studying Computer Science and Engineering at
               Instituto Superior Técnico (IST). I'm extremely passionate about
               technology in general and how it allows us to improve people's
@@ -337,7 +346,7 @@
       </div>
     </section>
 
-    <section id="accomplishments" class="home-section wg-accomplishments">
+    <section id="certifications" class="home-section wg-certifications">
       <div class="container">
         <div class="row">
           <div class="col-12 col-lg-4 section-heading">
@@ -389,7 +398,7 @@
       </div>
     </section>
 
-    <!-- Modal -->
+    <!-- Modal Certificate C2-->
     <div
       class="modal fade"
       id="exampleModalCenter"
@@ -402,6 +411,27 @@
         <div class="modal-content">
           <div class="modal-body">
             <img src="img/C2.jpg"></img>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal CV-->
+    <div
+      class="modal fade"
+      id="CVModal"
+      tabindex="-1"
+      role="dialog"
+      aria-labelledby="CVModalCenterTitle"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+          <div class="modal-body">
+            <img src="img/CV.svg"></img>
+          </div>
+          <div class="modal-footer text-center">
+            <button type="submit" onclick="window.open('/img/CV-doc.pdf')" class="btn btn-primary">Download</button>
           </div>
         </div>
       </div>
