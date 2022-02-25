@@ -48,6 +48,17 @@
   margin-top: 10px;
 }
 
+#experience .identity {
+  margin-left: 0;
+}
+
+#experience .identity img {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+  margin-top: 2px;
+}
+
 #certifications {
   padding-top: 50px;
   padding-bottom: 70px;
