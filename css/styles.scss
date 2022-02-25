@@ -1,3 +1,9 @@
+$small: 576px;
+$medium: 768px;
+$med-large: 928px;
+$large: 992px;
+$extra-larget: 1200px;
+
 #about {
   padding-bottom: 30px;
   text-align: justify;
@@ -27,13 +33,37 @@
 }
 
 .project-card {
+  .card-header {
+    height: 160px;
+    padding: 0;
+    img {
+      height: 100%;
+    }
+  }
   .card-body {
     padding-top: 20px;
+    height: 220px;
+    @media (min-width: $med-large) {
+      height: 265px;
+    }
   }
   .card-title {
     margin-top: 0px;
   }
   .card-text {
     padding: 0;
+    text-align: justify;
+  }
+  a.btn:visited {
+    color: white;
+  }
+  .network-icon {
+    position: absolute;
+  }
+  .fa-github {
+    font-size: 1.6rem;
+  }
+  .btn-website {
+    margin-right: 20px;
   }
 }

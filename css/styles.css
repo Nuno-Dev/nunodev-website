@@ -29,8 +29,24 @@
           justify-content: center;
 }
 
+.project-card .card-header {
+  height: 160px;
+  padding: 0;
+}
+
+.project-card .card-header img {
+  height: 100%;
+}
+
 .project-card .card-body {
   padding-top: 20px;
+  height: 220px;
+}
+
+@media (min-width: 928px) {
+  .project-card .card-body {
+    height: 265px;
+  }
 }
 
 .project-card .card-title {
@@ -39,5 +55,22 @@
 
 .project-card .card-text {
   padding: 0;
+  text-align: justify;
+}
+
+.project-card a.btn:visited {
+  color: white;
+}
+
+.project-card .network-icon {
+  position: absolute;
+}
+
+.project-card .fa-github {
+  font-size: 1.6rem;
+}
+
+.project-card .btn-website {
+  margin-right: 20px;
 }
 /*# sourceMappingURL=styles.css.map */
