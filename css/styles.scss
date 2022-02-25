@@ -2,7 +2,7 @@ $small: 576px;
 $medium: 768px;
 $med-large: 928px;
 $large: 992px;
-$extra-larget: 1200px;
+$extra-large: 1200px;
 
 #about {
   padding-bottom: 30px;
@@ -13,12 +13,130 @@ $extra-larget: 1200px;
     margin-bottom: 20px;
   }
 }
+
+#experience {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  .separator {
+    margin-right: 50px;
+  }
+  .col-experience {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .ul-interests {
+    padding-left: 18px;
+    padding-top: 15px;
+    margin-bottom: 0;
+    li {
+      text-align: justify;
+    }
+  }
+  .exp-meta {
+    margin-top: 10px;
+  }
+}
+
+#certifications {
+  padding-top: 50px;
+  padding-bottom: 70px;
+  .ul-interests {
+    padding-left: 18px;
+    padding-top: 15px;
+    margin-bottom: 0;
+    li {
+      text-align: justify;
+      margin-bottom: 15px;
+    }
+  }
+  .article-metadata {
+    margin-top: 10px !important;
+  }
+  .cambridge-container {
+    display: flex;
+  }
+  .cambridge {
+    width: 20px;
+    height: 25px;
+    margin-right: 10px;
+  }
+}
+
+#projects {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  .col-card {
+    @media screen and (max-width: $large) {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+  .project-card {
+    width: 25rem;
+    @media screen and (max-width: $large) {
+      width: 22rem !important;
+      margin-bottom: 40px;
+    }
+    @media screen and (max-width: $extra-large) {
+      width: 19rem;
+    }
+    .card-header {
+      height: 230px;
+      padding: 0;
+      img {
+        height: 100%;
+      }
+    }
+    .card-body {
+      padding-top: 20px;
+    }
+    .btns-container {
+      display: flex;
+      align-items: center;
+      justify-content: end;
+    }
+    .card-text {
+      padding: 0;
+      text-align: justify;
+      @media screen and (min-width: $large) {
+        font-size: 18px;
+      }
+    }
+    a.btn:visited {
+      color: white;
+    }
+    .network-icon {
+      margin: auto;
+      margin-left: 20px;
+      margin-right: 13px;
+      margin-top: 13px;
+    }
+    .fa-github {
+      font-size: 1.6rem;
+    }
+  }
+}
+
+.section-heading {
+  margin-bottom: 30px;
+  @media screen and (max-width: $large) {
+    text-align: center;
+  }
+}
+
 .navbar-brand {
   margin-right: 50px;
 }
 
 .site-footer {
   margin-top: 2rem;
+}
+
+.CV-btn {
+  margin-right: 20px;
 }
 
 #CVModal {
@@ -29,41 +147,5 @@ $extra-larget: 1200px;
     padding-top: 10px;
     padding-bottom: 30px;
     justify-content: center;
-  }
-}
-
-.project-card {
-  .card-header {
-    height: 160px;
-    padding: 0;
-    img {
-      height: 100%;
-    }
-  }
-  .card-body {
-    padding-top: 20px;
-    height: 220px;
-    @media (min-width: $med-large) {
-      height: 265px;
-    }
-  }
-  .card-title {
-    margin-top: 0px;
-  }
-  .card-text {
-    padding: 0;
-    text-align: justify;
-  }
-  a.btn:visited {
-    color: white;
-  }
-  .network-icon {
-    position: absolute;
-  }
-  .fa-github {
-    font-size: 1.6rem;
-  }
-  .btn-website {
-    margin-right: 20px;
   }
 }
