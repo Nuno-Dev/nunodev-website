@@ -71,6 +71,14 @@ $extra-large: 1200px;
     height: 25px;
     margin-right: 10px;
   }
+  .certifications-box {
+    @media screen and (max-width: $large) {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+  }
 }
 
 #projects {
@@ -98,14 +106,31 @@ $extra-large: 1200px;
       img {
         height: 100%;
       }
+      @media screen and (max-width: $extra-large) {
+        height: 200px;
+      }
+      @media screen and (max-width: $med-large) {
+        height: 170px;
+      }
     }
     .card-body {
-      padding-top: 20px;
+      padding-top: 15px;
+      @media screen and (max-width: $med-large) {
+        padding-top: 5px;
+      }
     }
     .btns-container {
       display: flex;
       align-items: center;
       justify-content: end;
+      .btn-website {
+        display: flex;
+        align-items: center;
+        height: 35px;
+        @media screen and (max-width: $med-large) {
+          height: 28px;
+        }
+      }
     }
     .card-text {
       padding: 0;
@@ -121,10 +146,10 @@ $extra-large: 1200px;
       margin: auto;
       margin-left: 20px;
       margin-right: 13px;
-      margin-top: 13px;
     }
     .fa-github {
-      font-size: 1.6rem;
+      font-size: 1.8rem;
+      margin-top: 3px;
     }
   }
 }

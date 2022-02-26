@@ -91,6 +91,24 @@
   margin-right: 10px;
 }
 
+@media screen and (max-width: 992px) {
+  #certifications .certifications-box {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+}
+
 #projects {
   padding-top: 50px;
   padding-bottom: 50px;
@@ -136,8 +154,26 @@
   height: 100%;
 }
 
+@media screen and (max-width: 1200px) {
+  #projects .project-card .card-header {
+    height: 200px;
+  }
+}
+
+@media screen and (max-width: 928px) {
+  #projects .project-card .card-header {
+    height: 170px;
+  }
+}
+
 #projects .project-card .card-body {
-  padding-top: 20px;
+  padding-top: 15px;
+}
+
+@media screen and (max-width: 928px) {
+  #projects .project-card .card-body {
+    padding-top: 5px;
+  }
 }
 
 #projects .project-card .btns-container {
@@ -150,6 +186,22 @@
   -webkit-box-pack: end;
       -ms-flex-pack: end;
           justify-content: end;
+}
+
+#projects .project-card .btns-container .btn-website {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 35px;
+}
+
+@media screen and (max-width: 928px) {
+  #projects .project-card .btns-container .btn-website {
+    height: 28px;
+  }
 }
 
 #projects .project-card .card-text {
@@ -171,11 +223,11 @@
   margin: auto;
   margin-left: 20px;
   margin-right: 13px;
-  margin-top: 13px;
 }
 
 #projects .project-card .fa-github {
-  font-size: 1.6rem;
+  font-size: 1.8rem;
+  margin-top: 3px;
 }
 
 .section-heading {
