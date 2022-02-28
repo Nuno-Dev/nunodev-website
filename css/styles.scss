@@ -4,6 +4,26 @@ $med-large: 928px;
 $large: 992px;
 $extra-large: 1200px;
 
+body {
+  &::-webkit-scrollbar {
+    width: 10px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: #c4c4c4;
+    border-radius: 10px;
+  }
+  @media screen and (max-width: $medium) {
+    &::-webkit-scrollbar {
+      display: none !important;
+    }
+  }
+}
+
 #about {
   padding-bottom: 30px;
   text-align: justify;
@@ -11,6 +31,19 @@ $extra-large: 1200px;
     margin-left: -3px;
     font-size: 1.8rem;
     margin-bottom: 20px;
+  }
+  .network-icon i {
+    font-size: 2.3rem;
+  }
+  .fa-github {
+    margin-right: 10px;
+  }
+  @media screen and (max-width: $large) {
+    .network-icon {
+      i {
+        font-size: 3rem;
+      }
+    }
   }
 }
 
@@ -43,8 +76,15 @@ $extra-large: 1200px;
       height: 20px;
       margin-right: 5px;
       margin-top: 2px;
+      @media screen and (max-width: $medium) {
+        width: 17px;
+        height: 17px;
+      }
     }
     margin-left: 0;
+  }
+  .separator-2nd {
+    height: 35% !important;
   }
 }
 
@@ -84,6 +124,9 @@ $extra-large: 1200px;
 #projects {
   padding-top: 50px;
   padding-bottom: 50px;
+  @media screen and (max-width: $medium) {
+    padding-bottom: 0;
+  }
   .col-card {
     @media screen and (max-width: $large) {
       display: flex;
@@ -167,6 +210,12 @@ $extra-large: 1200px;
 
 .site-footer {
   margin-top: 2rem;
+  @media screen and (max-width: $medium) {
+    margin-top: 0px;
+    .powered-by {
+      margin: 0;
+    }
+  }
 }
 
 .CV-btn {
@@ -181,5 +230,13 @@ $extra-large: 1200px;
     padding-top: 10px;
     padding-bottom: 30px;
     justify-content: center;
+  }
+}
+
+.mobile-box,
+.col-card {
+  @media screen and (max-width: $large) {
+    max-width: 100%;
+    padding: 0;
   }
 }

@@ -1,3 +1,22 @@
+body::-webkit-scrollbar {
+  width: 10px;
+}
+
+body::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #c4c4c4;
+  border-radius: 10px;
+}
+
+@media screen and (max-width: 768px) {
+  body::-webkit-scrollbar {
+    display: none !important;
+  }
+}
+
 #about {
   padding-bottom: 30px;
   text-align: justify;
@@ -7,6 +26,20 @@
   margin-left: -3px;
   font-size: 1.8rem;
   margin-bottom: 20px;
+}
+
+#about .network-icon i {
+  font-size: 2.3rem;
+}
+
+#about .fa-github {
+  margin-right: 10px;
+}
+
+@media screen and (max-width: 992px) {
+  #about .network-icon i {
+    font-size: 3rem;
+  }
 }
 
 #experience {
@@ -57,6 +90,17 @@
   height: 20px;
   margin-right: 5px;
   margin-top: 2px;
+}
+
+@media screen and (max-width: 768px) {
+  #experience .identity img {
+    width: 17px;
+    height: 17px;
+  }
+}
+
+#experience .separator-2nd {
+  height: 35% !important;
 }
 
 #certifications {
@@ -112,6 +156,12 @@
 #projects {
   padding-top: 50px;
   padding-bottom: 50px;
+}
+
+@media screen and (max-width: 768px) {
+  #projects {
+    padding-bottom: 0;
+  }
 }
 
 @media screen and (max-width: 992px) {
@@ -248,6 +298,15 @@
   margin-top: 2rem;
 }
 
+@media screen and (max-width: 768px) {
+  .site-footer {
+    margin-top: 0px;
+  }
+  .site-footer .powered-by {
+    margin: 0;
+  }
+}
+
 .CV-btn {
   margin-right: 20px;
 }
@@ -262,5 +321,13 @@
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+}
+
+@media screen and (max-width: 992px) {
+  .mobile-box,
+  .col-card {
+    max-width: 100%;
+    padding: 0;
+  }
 }
 /*# sourceMappingURL=styles.css.map */
