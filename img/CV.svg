@@ -399,31 +399,43 @@
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 274.63 L 556.294 274.63 L 556.294 302.974 L 57.144 302.974 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp59)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri Light,Italic" font-style="italic"><tspan y="-288.31" x="209.35 212.938 222.31002 228.31002 232.61801 238.13802 240.77802 246.77802 250.83402 256.858 259.726 265.24604 270.51405 274.35404 278.91404 281.78205 287.78205 293.05006 299.05006 301.70207 304.55809 310.55809 316.55809 319.21009 324.7181 327.58613 330.23814 336.22615 338.86616 347.25416 355.64216 364.03016 367.17417 373.17417 379.17417 385.17417 391.40217 397.40217 402.92219 408.1902 411.0702 416.08619 422.33818 431.69816">(more projects available in www.nunodev.com)</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri Light,Italic" font-style="italic"><tspan y="-288.31" x="209.35 212.938 222.31002 228.31002 232.61801 238.13802 240.77802 246.77802 250.83402 256.858 259.726 265.24604 270.51405 274.35404 278.91404 281.78205 287.78205 293.05006 299.05006 301.70207 304.55809 310.55809 316.55809 319.21009 324.7181">(more projects available </tspan></text>
 </g>
 <clipPath id="cp60">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 274.63 L 556.294 274.63 L 556.294 302.974 L 57.144 302.974 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp60)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="13.92" font-family="Segoe UI"><tspan y="-288.31" x="435.77"> </tspan></text>
-</g>
-</g>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri Light,Italic" font-style="italic"><tspan y="-288.31" x="327.72">o</tspan></text>
 </g>
 <clipPath id="cp61">
-<path transform="matrix(1,0,0,-1,0,841.92)" d="M 56.184 112.58 L 165.914 112.58 L 165.914 132.764 L 56.184 132.764 Z " fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 274.63 L 556.294 274.63 L 556.294 302.974 L 57.144 302.974 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp61)">
-<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri Light,Italic" font-style="italic"><tspan y="-288.31" x="333.72 339.72 342.36003 350.74803 359.13603 367.52403 370.66804 376.66804 382.66804 388.89607 394.89607 401.12409 406.6441 411.9121 414.7921 419.8081 425.8321 435.19209">n www.nunodev.com)</tspan></text>
+</g>
 <clipPath id="cp62">
-<path transform="matrix(1,0,0,-1,0,841.92)" d="M 56.184 112.58 L 165.914 112.58 L 165.914 132.764 L 56.184 132.764 Z " fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 274.63 L 556.294 274.63 L 556.294 302.974 L 57.144 302.974 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp62)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="13.92" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-117.62" x="63.384 67.44864 78.02784 85.71168 92.92224 101.77536 108.98592 116.64192 124.32576">INTERESTS</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="13.92" font-family="Segoe UI"><tspan y="-288.31" x="439.13"> </tspan></text>
+</g>
+</g>
 </g>
 <clipPath id="cp63">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 56.184 112.58 L 165.914 112.58 L 165.914 132.764 L 56.184 132.764 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp63)">
+<g id="Layer-1" data-name="P">
+<clipPath id="cp64">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M 56.184 112.58 L 165.914 112.58 L 165.914 132.764 L 56.184 132.764 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp64)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="13.92" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-117.62" x="63.384 67.44864 78.02784 85.71168 92.92224 101.77536 108.98592 116.64192 124.32576">INTERESTS</tspan></text>
+</g>
+<clipPath id="cp65">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M 56.184 112.58 L 165.914 112.58 L 165.914 132.764 L 56.184 132.764 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp65)">
 <text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="13.92" font-family="Segoe UI"><tspan y="-117.62" x="132.05"> </tspan></text>
 </g>
 </g>
@@ -440,682 +452,682 @@
 <g id="Layer-1" data-name="P">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 63.15 100.65 L 531.8 100.65 L 531.8 104.200008 L 63.15 104.200008 Z " fill="#6c6c6c" fill-rule="evenodd"/>
 </g>
-<clipPath id="cp64">
-<path transform="matrix(1,0,0,-1,0,841.92)" d="M 53.544 590.81 L 182.71399 590.81 L 182.71399 652.274 L 53.544 652.274 Z " fill-rule="evenodd"/>
-</clipPath>
-<g clip-path="url(#cp64)">
-<g id="Layer-1" data-name="P">
-<clipPath id="cp65">
-<path transform="matrix(1,0,0,-1,0,841.92)" d="M 53.544 590.81 L 182.71399 590.81 L 182.71399 652.274 L 53.544 652.274 Z " fill-rule="evenodd"/>
-</clipPath>
-<g clip-path="url(#cp65)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-639.31" x="60.744 64.332 71.568 78 84.96 89.292 92.423999 96.756 102.71999 105.61199 108.948 114.70799 121.94399">Identity, Lda</tspan></text>
-</g>
 <clipPath id="cp66">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 53.544 590.81 L 182.71399 590.81 L 182.71399 652.274 L 53.544 652.274 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp66)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-639.31" x="128.21"> </tspan></text>
-</g>
-</g>
 <g id="Layer-1" data-name="P">
 <clipPath id="cp67">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 53.544 590.81 L 182.71399 590.81 L 182.71399 652.274 L 53.544 652.274 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp67)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-616.49" x="60.744 64.572 70.824008 77.06401">June</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-639.31" x="60.744 64.332 71.568 78 84.96 89.292 92.423999 96.756 102.71999 105.61199 108.948 114.70799 121.94399">Identity, Lda</tspan></text>
 </g>
 <clipPath id="cp68">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 53.544 590.81 L 182.71399 590.81 L 182.71399 652.274 L 53.544 652.274 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp68)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-616.49" x="83.064"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-639.31" x="128.21"> </tspan></text>
 </g>
+</g>
+<g id="Layer-1" data-name="P">
 <clipPath id="cp69">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 53.544 590.81 L 182.71399 590.81 L 182.71399 652.274 L 53.544 652.274 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp69)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-616.49" x="85.704">-</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-616.49" x="60.744 64.572 70.824008 77.06401">June</tspan></text>
 </g>
 <clipPath id="cp70">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 53.544 590.81 L 182.71399 590.81 L 182.71399 652.274 L 53.544 652.274 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp70)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-616.49" x="89.304"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-616.49" x="83.064"> </tspan></text>
 </g>
 <clipPath id="cp71">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 53.544 590.81 L 182.71399 590.81 L 182.71399 652.274 L 53.544 652.274 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp71)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-616.49" x="91.944 97.464008">Se</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-616.49" x="85.704">-</tspan></text>
 </g>
 <clipPath id="cp72">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 53.544 590.81 L 182.71399 590.81 L 182.71399 652.274 L 53.544 652.274 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp72)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-616.49" x="103.49 109.73 112.838008 115.706 121.706 127.706 133.934 139.934">p. 2021 </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-616.49" x="89.304"> </tspan></text>
 </g>
 <clipPath id="cp73">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 53.544 590.81 L 182.71399 590.81 L 182.71399 652.274 L 53.544 652.274 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp73)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-616.49" x="91.944 97.452 103.452">Sep</tspan></text>
+</g>
+<clipPath id="cp74">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M 53.544 590.81 L 182.71399 590.81 L 182.71399 652.274 L 53.544 652.274 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp74)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-616.49" x="109.73 112.838008 115.706 121.706 127.706 133.934 139.934">. 2021 </tspan></text>
+</g>
+<clipPath id="cp75">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M 53.544 590.81 L 182.71399 590.81 L 182.71399 652.274 L 53.544 652.274 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp75)">
 <text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-616.49" x="142.85"> </tspan></text>
 </g>
 </g>
-</g>
-<clipPath id="cp74">
-<path transform="matrix(1,0,0,-1,0,841.92)" d="M 54.024 509.66 L 168.79399 509.66 L 168.79399 571.364 L 54.024 571.364 Z " fill-rule="evenodd"/>
-</clipPath>
-<g clip-path="url(#cp74)">
-<g id="Layer-1" data-name="P">
-<clipPath id="cp75">
-<path transform="matrix(1,0,0,-1,0,841.92)" d="M 54.024 509.66 L 168.79399 509.66 L 168.79399 571.364 L 54.024 571.364 Z " fill-rule="evenodd"/>
-</clipPath>
-<g clip-path="url(#cp75)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-558.41" x="61.224 67.248 71.772 78.240009 84.70801 87.84001 94.06801 101.02801 106.548007 113.01601">Freelancer</tspan></text>
 </g>
 <clipPath id="cp76">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 54.024 509.66 L 168.79399 509.66 L 168.79399 571.364 L 54.024 571.364 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp76)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-558.41" x="117.41"> </tspan></text>
-</g>
-</g>
 <g id="Layer-1" data-name="P">
 <clipPath id="cp77">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 54.024 509.66 L 168.79399 509.66 L 168.79399 571.364 L 54.024 571.364 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp77)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-534.86" x="61.224 67.224 73.224 79.224 85.451999">2020 </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-558.41" x="61.224 67.248 71.772 78.240009 84.70801 87.84001 94.06801 101.02801 106.548007 113.01601">Freelancer</tspan></text>
 </g>
 <clipPath id="cp78">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 54.024 509.66 L 168.79399 509.66 L 168.79399 571.364 L 54.024 571.364 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp78)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-534.86" x="88.104">-</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-558.41" x="117.41"> </tspan></text>
 </g>
+</g>
+<g id="Layer-1" data-name="P">
 <clipPath id="cp79">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 54.024 509.66 L 168.79399 509.66 L 168.79399 571.364 L 54.024 571.364 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp79)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-534.86" x="91.704"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-534.86" x="61.224 67.224 73.224 79.224 85.451999">2020 </tspan></text>
 </g>
 <clipPath id="cp80">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 54.024 509.66 L 168.79399 509.66 L 168.79399 571.364 L 54.024 571.364 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp80)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-534.86" x="94.608 100.608 106.608 112.836">2021</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-534.86" x="88.104">-</tspan></text>
 </g>
 <clipPath id="cp81">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 54.024 509.66 L 168.79399 509.66 L 168.79399 571.364 L 54.024 571.364 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp81)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-534.86" x="91.704"> </tspan></text>
+</g>
+<clipPath id="cp82">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M 54.024 509.66 L 168.79399 509.66 L 168.79399 571.364 L 54.024 571.364 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp82)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-534.86" x="94.608 100.608 106.608 112.836">2021</tspan></text>
+</g>
+<clipPath id="cp83">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M 54.024 509.66 L 168.79399 509.66 L 168.79399 571.364 L 54.024 571.364 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp83)">
 <text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="18" font-family="Calibri"><tspan y="-534.86" x="119.09"> </tspan></text>
 </g>
 </g>
-</g>
-<clipPath id="cp82">
-<path transform="matrix(1,0,0,-1,0,841.92)" d="M 175.27 563.45 L 545.49 563.45 L 545.49 651.794 L 175.27 651.794 Z " fill-rule="evenodd"/>
-</clipPath>
-<g clip-path="url(#cp82)">
-<g id="Layer-1" data-name="P">
-<clipPath id="cp83">
-<path transform="matrix(1,0,0,-1,0,841.92)" d="M 175.27 563.45 L 545.49 563.45 L 545.49 651.794 L 175.27 651.794 Z " fill-rule="evenodd"/>
-</clipPath>
-<g clip-path="url(#cp83)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-638.83" x="182.47 188.95 198.058 204.082 210.76599 222.28598 230.43398 237.87398 244.08998 247.46199 256.06599 262.33 270.034 276.25 282.01 291.118 298.078 304.294 311.77003 315.10603 318.69404 327.81404 334.52204 340.73805 348.21406">SOFTWARE DEVELOPER INTERN</tspan></text>
 </g>
 <clipPath id="cp84">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 175.27 563.45 L 545.49 563.45 L 545.49 651.794 L 175.27 651.794 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp84)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-638.83" x="357.26"> </tspan></text>
-</g>
-</g>
 <g id="Layer-1" data-name="P">
 <clipPath id="cp85">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 175.27 563.45 L 545.49 563.45 L 545.49 651.794 L 175.27 651.794 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp85)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-616.01" x="182.47 189.19336 194.69129 199.00792 201.65752 206.9236 212.68648 218.1844 223.98041 226.5969 231.88506 237.6369 243.39978 246.0273 248.65482 257.51994 263.2828 265.91035 271.18748 280.05259 285.5505 291.3465 294.93449 300.4324 306.2284 308.84486 312.44389 318.20677 323.70469 326.35429 332.11717 337.61509 345.54179 348.16929 357.99488 363.5149 369.49858 372.12608 378.10975 380.73728 383.3648 388.86274 394.65873 398.2467 400.8742 403.7446 409.50749 413.1065 418.60444 422.4574 425.8246 431.11274 435.66123 441.15916 443.80876 447.17594 452.92778 457.00154 459.62904 463.22807 468.99095 474.48887 477.38133 482.65843 489.85649 499.92497 502.55247 508.31535 512.1683 517.9201 523.683 529.44589 534.23727 538.0682">Designed and implemented the new Web Client Interface for the EOW product </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-638.83" x="182.47 188.95 198.058 204.082 210.76599 222.28598 230.43398 237.87398 244.08998 247.46199 256.06599 262.33 270.034 276.25 282.01 291.118 298.078 304.294 311.77003 315.10603 318.69404 327.81404 334.52204 340.73805 348.21406">SOFTWARE DEVELOPER INTERN</tspan></text>
 </g>
 <clipPath id="cp86">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 175.27 563.45 L 545.49 563.45 L 545.49 651.794 L 175.27 651.794 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp86)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-601.61" x="182.47 186.06903 191.83191 197.12007 200.70807 203.57848 206.206 210.52263">that is </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-638.83" x="357.26"> </tspan></text>
 </g>
+</g>
+<g id="Layer-1" data-name="P">
 <clipPath id="cp87">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 175.27 563.45 L 545.49 563.45 L 545.49 651.794 L 175.27 651.794 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp87)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-601.61" x="213.43 218.70999">a </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-616.01" x="182.47 189.19336 194.69129 199.00792 201.65752 206.9236 212.68648 218.1844 223.98041 226.5969 231.88506 237.6369 243.39978 246.0273 248.65482 257.51994 263.2828 265.91035 271.18748 280.05259 285.5505 291.3465 294.93449 300.4324 306.2284 308.84486 312.44389 318.20677 323.70469 326.35429 332.11717 337.61509 345.54179 348.16929 357.99488 363.5149 369.49858 372.12608 378.10975 380.73728 383.3648 388.86274 394.65873 398.2467 400.8742 403.7446 409.50749 413.1065 418.60444 422.4574 425.8246 431.11274 435.66123 441.15916 443.80876 447.17594 452.92778 457.00154 459.62904 463.22807 468.99095 474.48887 477.38133 482.65843 489.85649 499.92497 502.55247 508.31535 512.1683 517.9201 523.683 529.44589 534.23727 538.0682">Designed and implemented the new Web Client Interface for the EOW product </tspan></text>
 </g>
 <clipPath id="cp88">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 175.27 563.45 L 545.49 563.45 L 545.49 651.794 L 175.27 651.794 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp88)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-601.61" x="221.62 226.65424 229.28176 233.13472 236.72272 242.4856 247.77376 250.39025">virtual </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-601.61" x="182.47 186.06903 191.83191 197.12007 200.70807 203.82135 206.44887 210.7655">that is </tspan></text>
 </g>
 <clipPath id="cp89">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 175.27 563.45 L 545.49 563.45 L 545.49 651.794 L 175.27 651.794 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp89)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-601.61" x="253.3 261.1936 267.0117 270.8205 275.8437 280.16035 285.95634 291.24449 295.78193 301.27986 304.1723 307.5395 313.29133 317.1443 320.00364 325.50157 331.29756 334.88554 338.7385 344.23643 348.0894 353.84123 357.69419 360.31068 364.62733 370.12525 374.4419 377.33436 382.6225 388.37434 394.1372 397.0076 399.63514 403.95179 406.82218 412.58506 416.9017 422.39964 428.19563 431.05497">workspace for entrerprises and is used b</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-601.61" x="213.91 219.43016">a </tspan></text>
 </g>
 <clipPath id="cp90">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 175.27 563.45 L 545.49 563.45 L 545.49 651.794 L 175.27 651.794 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp90)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-601.61" x="436.97 442.00425 444.87464 448.47367 454.23655 459.99943 465.7623 470.07896 475.3671 481.11894 486.8818 491.19847 494.3117 500.0746 503.44178 506.30113 510.86064 513.48818 516.11569 521.6136 527.4096 530.9976 535.3143 538.42758">y thousands of clients. </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-601.61" x="222.58 227.61425 230.24176 234.09473 237.68273 243.4456 248.73377 251.35025">virtual </tspan></text>
 </g>
 <clipPath id="cp91">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 175.27 563.45 L 545.49 563.45 L 545.49 651.794 L 175.27 651.794 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp91)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-586.97" x="182.47 187.74712 193.24504 197.82665 203.58953 209.3524 215.11528 217.7428 223.50568 228.77176 231.39928 236.8972 241.21384 243.64264 249.40552 253.72216 259.22007 265.01606 267.40068 270.0282 275.79109 280.3506 282.97813 288.741 294.50389 300.0018 302.41957 306.00758 311.29573 316.3189 321.60707 326.6413 331.2008 335.05378 337.67027 343.43315 347.03218 349.67076 352.0664 357.81825 364.76243 370.51426 373.15284 375.5485 379.1365 386.56645 392.36244 397.86036 401.71333 406.71446 409.3751 411.77076 417.75444 422.82179 427.59107 433.11109 435.74967 438.14533 445.0895 450.36665 459.72859 464.51997 470.03999 472.43565 477.7238 483.47563 489.2385 491.63417 496.7015 499.30699 504.57307 513.43826 518.7264">Technologies used include JavaScript, PHP, JQuery, CSS3, HTML5 and Figma.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-601.61" x="254.5 262.39363 268.2117 272.0205 277.0437 281.36036 287.15635 292.4445 296.98194 302.47987 305.6152 308.9824 314.73423 318.5872 321.67839 327.1763 333.18205 336.78108 342.279 346.13197 351.92796 355.73677 358.3643 362.68095 368.17887 372.4955 375.63087 380.919 386.67085 392.43373 395.54698 398.1745 402.49116 405.6044 411.36729 415.68394 421.18186 426.97785 430.08009">workspace for enterprises and is used b</tspan></text>
 </g>
 <clipPath id="cp92">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 175.27 563.45 L 545.49 563.45 L 545.49 651.794 L 175.27 651.794 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp92)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-601.61" x="436.01 441.04426 444.1575 447.75654 453.5194 459.50309 465.26597 469.5826 474.87077 480.6226 486.38548 490.70213 493.81538 499.57826 503.16624 506.27949 510.839 513.4665 516.094 521.5919 527.38796 530.97598 535.2926 538.4059">y thousands of clients. </tspan></text>
+</g>
+<clipPath id="cp93">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M 175.27 563.45 L 545.49 563.45 L 545.49 651.794 L 175.27 651.794 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp93)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-586.97" x="182.47 187.74712 193.24504 197.82665 203.58953 209.3524 215.11528 217.7428 223.50568 228.77176 231.39928 236.8972 241.21384 243.64264 249.40552 253.72216 259.22007 265.01606 267.40068 270.0282 275.79109 280.3506 282.97813 288.741 294.50389 300.0018 302.41957 306.00758 311.29573 316.3189 321.60707 326.6413 331.2008 335.05378 337.67027 343.43315 347.03218 349.67076 352.0664 357.81825 364.76243 370.51426 373.15284 375.5485 379.1365 386.56645 392.36244 397.86036 401.71333 406.71446 409.3751 411.77076 417.75444 422.82179 427.59107 433.11109 435.74967 438.14533 445.0895 450.36665 459.72859 464.51997 470.03999 472.43565 477.7238 483.47563 489.2385 491.63417 496.7015 499.30699 504.57307 513.43826 518.7264">Technologies used include JavaScript, PHP, JQuery, CSS3, HTML5 and Figma.</tspan></text>
+</g>
+<clipPath id="cp94">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M 175.27 563.45 L 545.49 563.45 L 545.49 651.794 L 175.27 651.794 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp94)">
 <text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="19.92" font-family="Segoe UI"><tspan y="-586.97" x="521.95"> </tspan></text>
 </g>
 </g>
-</g>
-<clipPath id="cp93">
-<path transform="matrix(1,0,0,-1,0,841.92)" d="M 174.79 518.06 L 538.29 518.06 L 538.29 570.644 L 174.79 570.644 Z " fill-rule="evenodd"/>
-</clipPath>
-<g clip-path="url(#cp93)">
-<g id="Layer-1" data-name="P">
-<clipPath id="cp94">
-<path transform="matrix(1,0,0,-1,0,841.92)" d="M 174.79 518.06 L 538.29 518.06 L 538.29 570.644 L 174.79 570.644 Z " fill-rule="evenodd"/>
-</clipPath>
-<g clip-path="url(#cp94)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-557.69" x="181.99 193.51 199.726 206.974 210.298 218.90201 225.16602 232.87001 239.08602 244.84601 253.95401 260.914 267.13">WEB DEVELOPER</tspan></text>
 </g>
 <clipPath id="cp95">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 174.79 518.06 L 538.29 518.06 L 538.29 570.644 L 174.79 570.644 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp95)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-557.69" x="274.66"> </tspan></text>
-</g>
-</g>
 <g id="Layer-1" data-name="P">
 <clipPath id="cp96">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 174.79 518.06 L 538.29 518.06 L 538.29 570.644 L 174.79 570.644 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp96)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-534.62" x="181.99 188.71337 194.21129 198.52793 201.17752 206.4436 212.20648 217.7044 223.50041 225.41034 230.6985 236.45035 242.21323 244.13419 246.7617 255.62682 261.3897 264.01725 269.29438 278.1595 283.6574 289.4534 293.04139 298.5393 304.3353 306.2452 314.1388 319.66984 325.4327 329.74937 332.3769 335.97593 341.47386 345.7905 347.73353 351.1007 356.85255 360.7055 362.61543 367.17494 372.9378 381.80293 387.5658 392.85395 398.60578 401.2333 406.73124 411.04789 412.9909 418.27906 424.03089 429.79377 431.71473 437.4776 441.33058 446.5856 451.87376 457.62559 460.2531 464.56977 469.8579 473.4459 476.07344 481.8363 487.59919 491.91584 493.8368 501.7304 504.39106 507.99009 513.7529 515.6739 519.27297 525.0358 530.78768">Designed and implemented websites for companies and organizations with the </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-557.69" x="181.99 193.51 199.726 206.974 210.298 218.90201 225.16602 232.87001 239.08602 244.84601 253.95401 260.914 267.13">WEB DEVELOPER</tspan></text>
 </g>
 <clipPath id="cp97">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 174.79 518.06 L 538.29 518.06 L 538.29 570.644 L 174.79 570.644 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp97)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-519.98" x="181.99 187.25609 193.01897 198.30713 200.92362 203.31929 206.91832 212.6812 215.07688 217.70439 226.5695 232.33238 236.18535 241.9372 246.97144 252.46936 254.88712 258.48616 264.24903 269.74696 272.39659 276.24955 278.63417 283.6684 286.29594 290.38075 293.00828 298.77116 301.16685 303.79438 306.4219 310.02095 315.05519 317.69377 320.08943 328.95454 334.24269 338.09565 343.11885 348.61677 352.23789 354.86543 360.6283 365.89439 368.29005 373.5782 379.33003 385.0929 387.48857 390.1161 395.87898 400.43849 406.20137 415.06648 420.5644">goal to improve their visibility, marketing and income.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-557.69" x="274.66"> </tspan></text>
 </g>
+</g>
+<g id="Layer-1" data-name="P">
 <clipPath id="cp98">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 174.79 518.06 L 538.29 518.06 L 538.29 570.644 L 174.79 570.644 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp98)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-534.62" x="181.99 188.71337 194.21129 198.52793 201.17752 206.4436 212.20648 217.7044 223.50041 225.41034 230.6985 236.45035 242.21323 244.13419 246.7617 255.62682 261.3897 264.01725 269.29438 278.1595 283.6574 289.4534 293.04139 298.5393 304.3353 306.2452 314.1388 319.66984 325.4327 329.74937 332.3769 335.97593 341.47386 345.7905 347.73353 351.1007 356.85255 360.7055 362.61543 367.17494 372.9378 381.80293 387.5658 392.85395 398.60578 401.2333 406.73124 411.04789 412.9909 418.27906 424.03089 429.79377 431.71473 437.4776 441.33058 446.5856 451.87376 457.62559 460.2531 464.56977 469.8579 473.4459 476.07344 481.8363 487.59919 491.91584 493.8368 501.7304 504.39106 507.99009 513.7529 515.6739 519.27297 525.0358 530.78768">Designed and implemented websites for companies and organizations with the </tspan></text>
+</g>
+<clipPath id="cp99">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M 174.79 518.06 L 538.29 518.06 L 538.29 570.644 L 174.79 570.644 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp99)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-519.98" x="181.99 187.25609 193.01897 198.30713 200.92362 203.31929 206.91832 212.6812 215.07688 217.70439 226.5695 232.33238 236.18535 241.9372 246.97144 252.46936 254.88712 258.48616 264.24903 269.74696 272.39659 276.24955 278.63417 283.6684 286.29594 290.38075 293.00828 298.77116 301.16685 303.79438 306.4219 310.02095 315.05519 317.69377 320.08943 328.95454 334.24269 338.09565 343.11885 348.61677 352.23789 354.86543 360.6283 365.89439 368.29005 373.5782 379.33003 385.0929 387.48857 390.1161 395.87898 400.43849 406.20137 415.06648 420.5644">goal to improve their visibility, marketing and income.</tspan></text>
+</g>
+<clipPath id="cp100">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M 174.79 518.06 L 538.29 518.06 L 538.29 570.644 L 174.79 570.644 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp100)">
 <text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="19.92" font-family="Segoe UI"><tspan y="-519.98" x="423.53"> </tspan></text>
 </g>
 </g>
-</g>
-<clipPath id="cp99">
-<path transform="matrix(1,0,0,-1,0,841.92)" d="M 54.744 313.3 L 183.914 313.3 L 183.914 374.97999 L 54.744 374.97999 Z " fill-rule="evenodd"/>
-</clipPath>
-<g clip-path="url(#cp99)">
-<g id="Layer-1" data-name="P">
-<clipPath id="cp100">
-<path transform="matrix(1,0,0,-1,0,841.92)" d="M 54.744 313.3 L 183.914 313.3 L 183.914 374.97999 L 54.744 374.97999 Z " fill-rule="evenodd"/>
-</clipPath>
-<g clip-path="url(#cp100)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-362.02" x="61.944 69.144008 73.69201 76.824008 81.156009 84.25201 89.520008 96.504009 99.82801 107.280017 114.444019 121.44002 128.38802 134.13602 137.26802">British Council</tspan></text>
 </g>
 <clipPath id="cp101">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 54.744 313.3 L 183.914 313.3 L 183.914 374.97999 L 54.744 374.97999 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp101)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="18" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-362.02" x="140.21"> </tspan></text>
-</g>
-</g>
 <g id="Layer-1" data-name="P">
 <clipPath id="cp102">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 54.744 313.3 L 183.914 313.3 L 183.914 374.97999 L 54.744 374.97999 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp102)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-339.46" x="61.944 67.944 73.944 79.944 86.172">2019 </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-362.02" x="61.944 69.144008 73.69201 76.824008 81.156009 84.25201 89.520008 96.504009 99.82801 107.280017 114.444019 121.44002 128.38802 134.13602 137.26802">British Council</tspan></text>
 </g>
 <clipPath id="cp103">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 54.744 313.3 L 183.914 313.3 L 183.914 374.97999 L 54.744 374.97999 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp103)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-339.46" x="88.824">&#x2013;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="18" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-362.02" x="140.21"> </tspan></text>
 </g>
+</g>
+<g id="Layer-1" data-name="P">
 <clipPath id="cp104">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 54.744 313.3 L 183.914 313.3 L 183.914 374.97999 L 54.744 374.97999 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp104)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-339.46" x="94.848"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-339.46" x="61.944 67.944 73.944 79.944 86.172">2019 </tspan></text>
 </g>
 <clipPath id="cp105">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 54.744 313.3 L 183.914 313.3 L 183.914 374.97999 L 54.744 374.97999 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp105)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-339.46" x="97.488 103.715999 109.715999 115.715999">2020</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-339.46" x="88.824">&#x2013;</tspan></text>
 </g>
 <clipPath id="cp106">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 54.744 313.3 L 183.914 313.3 L 183.914 374.97999 L 54.744 374.97999 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp106)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-339.46" x="121.97"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-339.46" x="94.848"> </tspan></text>
 </g>
-</g>
-<g id="Layer-1" data-name="P">
 <clipPath id="cp107">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 54.744 313.3 L 183.914 313.3 L 183.914 374.97999 L 54.744 374.97999 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp107)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-339.46" x="97.488 103.715999 109.715999 115.715999">2020</tspan></text>
+</g>
+<clipPath id="cp108">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M 54.744 313.3 L 183.914 313.3 L 183.914 374.97999 L 54.744 374.97999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp108)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri"><tspan y="-339.46" x="121.97"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp109">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M 54.744 313.3 L 183.914 313.3 L 183.914 374.97999 L 54.744 374.97999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp109)">
 <text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="18" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-308.74" x="61.944"> </tspan></text>
 </g>
 </g>
-</g>
-<clipPath id="cp108">
-<path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.91 373.06 L 543.57 373.06 L 543.57 461.404 L 171.91 461.404 Z " fill-rule="evenodd"/>
-</clipPath>
-<g clip-path="url(#cp108)">
-<g id="Layer-1" data-name="P">
-<clipPath id="cp109">
-<path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.91 373.06 L 543.57 373.06 L 543.57 461.404 L 171.91 461.404 Z " fill-rule="evenodd"/>
-</clipPath>
-<g clip-path="url(#cp109)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-448.44" x="179.11 186.31 194.458 201.90999 210.76598 216.98198 222.76598 231.87398 239.31398 242.42198 248.90198 252.02199 260.62599 266.88999 275.254 282.73 288.946 295.19804 298.078 301.66603 310.786 313.906 321.358 330.45399 341.494 348.45399 356.85398 363.56199 369.77799 377.254 380.362 386.842 394.294 397.87 404.086 413.23 420.43">BACHELOR&#x2019;S DEGREE IN COMPUTER SCIENCE</tspan></text>
 </g>
 <clipPath id="cp110">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.91 373.06 L 543.57 373.06 L 543.57 461.404 L 171.91 461.404 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp110)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-448.44" x="426.89"> </tspan></text>
-</g>
+<g id="Layer-1" data-name="P">
 <clipPath id="cp111">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.91 373.06 L 543.57 373.06 L 543.57 461.404 L 171.91 461.404 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp111)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-448.44" x="430.01 438.15803 447.278 455.88203 459.038 465.254 474.398 482.76203 486.38603 495.506 501.72203 507.97404 515.414 519.002 528.122">AND ENGINEERING</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-448.44" x="179.11 186.31 194.458 201.90999 210.76598 216.98198 222.76598 231.87398 239.31398 242.42198 248.90198 252.02199 260.62599 266.88999 275.254 282.73 288.946 295.19804 298.078 301.66603 310.786 313.906 321.358 330.45399 341.494 348.45399 356.85398 363.56199 369.77799 377.254 380.362 386.842 394.294 397.87 404.086 413.23 420.43">BACHELOR&#x2019;S DEGREE IN COMPUTER SCIENCE</tspan></text>
 </g>
 <clipPath id="cp112">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.91 373.06 L 543.57 373.06 L 543.57 461.404 L 171.91 461.404 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp112)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-448.44" x="536.38"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-448.44" x="426.89"> </tspan></text>
 </g>
-</g>
-<g id="Layer-1" data-name="P">
 <clipPath id="cp113">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.91 373.06 L 543.57 373.06 L 543.57 461.404 L 171.91 461.404 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp113)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-425.64" x="179.11 185.09369 190.85657 199.72168 205.48456 208.11208 213.61 217.23111 222.72904 228.52504 232.102 240.96712 246.48712 249.11464 252.71367 255.34119 261.10408 263.7316 269.22953 272.8396 278.60249 282.45545 288.20729 290.84584 296.34376 300.92536 304.52439">Completed multiple projects</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-448.44" x="430.01 438.15803 447.278 455.88203 459.038 465.254 474.398 482.76203 486.38603 495.506 501.72203 507.97404 515.414 519.002 528.122">AND ENGINEERING</tspan></text>
 </g>
 <clipPath id="cp114">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.91 373.06 L 543.57 373.06 L 543.57 461.404 L 171.91 461.404 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp114)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-425.64" x="309"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-448.44" x="536.38"> </tspan></text>
 </g>
+</g>
+<g id="Layer-1" data-name="P">
 <clipPath id="cp115">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.91 373.06 L 543.57 373.06 L 543.57 461.404 L 171.91 461.404 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp115)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-425.64" x="312.6 318.36289 322.67955 325.30708 331.06996 336.33604 339.924 343.52305 349.02098 353.60258 359.36546 365.12834 370.8912 373.51875 379.28163 384.5477 387.17524 392.67317 396.9898 400.59989 404.91654 410.71253 415.23893 421.0018 424.58979 429.87794 434.19459 437.06498 440.65296 446.4048 451.43904 455.03807 460.80094 466.5638 472.3267 474.96528 478.55326 484.53694 487.40736 490.99534 494.58335 499.8715 504.89469 510.18284 512.8103 516.3983 522.382 527.87997 533.411 536.04959">using technologies such as: Python, C, Java, C++, </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-425.64" x="179.11 185.09369 190.85657 199.72168 205.48456 208.11208 213.61 217.23111 222.72904 228.52504 232.102 240.96712 246.48712 249.11464 252.71367 255.34119 261.10408 263.7316 269.22953 272.8396 278.60249 282.45545 288.20729 290.84584 296.34376 300.92536 304.52439">Completed multiple projects</tspan></text>
 </g>
 <clipPath id="cp116">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.91 373.06 L 543.57 373.06 L 543.57 461.404 L 171.91 461.404 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp116)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-411.24" x="179.11 184.17737 191.60729 196.14472 198.78327 202.12839 207.88024 214.82439 220.57624 223.21479 226.5599 231.11942 233.9898 239.05718 244.76486 247.42549 250.77062 256.52247 260.37544 266.12727 268.7548 274.51768 279.78376 283.12886 288.417 294.16883 299.9317 303.2768 309.74623 314.06288 318.37953 323.87745 332.77568 338.53855 340.93424 345.96849 348.83888 352.18397 358.16764 363.9305 367.78349 371.3715 373.99903 378.55854 384.3214 386.94895 392.71183 401.57695 404.92204 412.60588 415.2334 418.83244">SQL, PHP, LISP, Prolog and Assembly. Curriculum with</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-425.64" x="309"> </tspan></text>
 </g>
 <clipPath id="cp117">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.91 373.06 L 543.57 373.06 L 543.57 461.404 L 171.91 461.404 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp117)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-411.24" x="424.97"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-425.64" x="312.6 318.36289 322.67955 325.30708 331.06996 336.33604 339.924 343.52305 349.02098 353.60258 359.36546 365.12834 370.8912 373.51875 379.28163 384.5477 387.17524 392.67317 396.9898 400.59989 404.91654 410.71253 415.23893 421.0018 424.58979 429.87794 434.19459 437.06498 440.65296 446.4048 451.43904 455.03807 460.80094 466.5638 472.3267 474.96528 478.55326 484.53694 487.40736 490.99534 494.58335 499.8715 504.89469 510.18284 512.8103 516.3983 522.382 527.87997 533.411 536.04959">using technologies such as: Python, C, Java, C++, </tspan></text>
 </g>
 <clipPath id="cp118">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.91 373.06 L 543.57 373.06 L 543.57 461.404 L 171.91 461.404 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp118)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-411.24" x="428.33 434.09288 436.7204">big</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-411.24" x="179.11 184.17737 191.60729 196.14472 198.78327 202.12839 207.88024 214.82439 220.57624 223.21479 226.5599 231.11942 233.9898 239.05718 244.76486 247.42549 250.77062 256.52247 260.37544 266.12727 268.7548 274.51768 279.78376 283.12886 288.417 294.16883 299.9317 303.2768 309.74623 314.06288 318.37953 323.87745 332.77568 338.53855 340.93424 345.96849 348.83888 352.18397 358.16764 363.9305 367.78349 371.3715 373.99903 378.55854 384.3214 386.94895 392.71183 401.57695 404.92204 412.60588 415.2334 418.83244">SQL, PHP, LISP, Prolog and Assembly. Curriculum with</tspan></text>
 </g>
 <clipPath id="cp119">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.91 373.06 L 543.57 373.06 L 543.57 461.404 L 171.91 461.404 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp119)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-411.24" x="442.01"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-411.24" x="424.97"> </tspan></text>
 </g>
 <clipPath id="cp120">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.91 373.06 L 543.57 373.06 L 543.57 461.404 L 171.91 461.404 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp120)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-411.24" x="445.37 448.73719 454.489 459.04853 464.8114 469.12806 472.4842 478.24708 484.00996 487.35505 493.82447 496.452 501.71809 507.48097 511.33393 513.9504 517.54946 523.3123 532.1775">focus on Algorithms</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-411.24" x="428.33 434.09288 436.7204">big</tspan></text>
 </g>
 <clipPath id="cp121">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.91 373.06 L 543.57 373.06 L 543.57 461.404 L 171.91 461.404 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp121)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-411.24" x="536.38"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-411.24" x="442.01"> </tspan></text>
 </g>
 <clipPath id="cp122">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.91 373.06 L 543.57 373.06 L 543.57 461.404 L 171.91 461.404 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp122)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-396.6" x="179.11 184.39817 190.15001">and</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-411.24" x="445.37 448.73719 454.489 459.04853 464.8114 469.12806 472.4842 478.24708 484.00996 487.35505 493.82447 496.452 501.71809 507.48097 511.33393 513.9504 517.54946 523.3123 532.1775">focus on Algorithms</tspan></text>
 </g>
 <clipPath id="cp123">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.91 373.06 L 543.57 373.06 L 543.57 461.404 L 171.91 461.404 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp123)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-396.6" x="195.91"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-411.24" x="536.38"> </tspan></text>
 </g>
 <clipPath id="cp124">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.91 373.06 L 543.57 373.06 L 543.57 461.404 L 171.91 461.404 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp124)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-396.6" x="198.31 205.03336 210.32152 213.90952 219.19768 221.59336 226.85944 230.45847 234.31143 240.06328 244.6228 248.45368 254.21656 258.06953 263.56745">Data Structures</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-396.6" x="179.11 184.39817 190.15001">and</tspan></text>
 </g>
 <clipPath id="cp125">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.91 373.06 L 543.57 373.06 L 543.57 461.404 L 171.91 461.404 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp125)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-396.6" x="267.94">.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-396.6" x="195.91"> </tspan></text>
 </g>
 <clipPath id="cp126">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.91 373.06 L 543.57 373.06 L 543.57 461.404 L 171.91 461.404 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp126)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-396.6" x="198.31 205.03336 210.32152 213.90952 219.19768 221.59336 226.85944 230.45847 234.31143 240.06328 244.6228 248.45368 254.21656 258.06953 263.56745">Data Structures</tspan></text>
+</g>
+<clipPath id="cp127">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.91 373.06 L 543.57 373.06 L 543.57 461.404 L 171.91 461.404 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp127)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-396.6" x="267.94">.</tspan></text>
+</g>
+<clipPath id="cp128">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.91 373.06 L 543.57 373.06 L 543.57 461.404 L 171.91 461.404 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp128)">
 <text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-396.6" x="270.82"> </tspan></text>
 </g>
 </g>
-</g>
-<clipPath id="cp127">
-<path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.67 314.02 L 539.73 314.02 L 539.73 374.5 L 171.67 374.5 Z " fill-rule="evenodd"/>
-</clipPath>
-<g clip-path="url(#cp127)">
-<g id="Layer-1" data-name="P">
-<clipPath id="cp128">
-<path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.67 314.02 L 539.73 314.02 L 539.73 374.5 L 171.67 374.5 Z " fill-rule="evenodd"/>
-</clipPath>
-<g clip-path="url(#cp128)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-361.54" x="178.87 186.32199 194.458 205.49799 212.69799 220.13799 223.72599 232.32999 240.75399 246.96999 250.342 257.794 264.49003 267.838 274.798 282.238 291.346 297.106 300.694 308.146 311.722 317.938 327.082 334.534 341.458 344.602 348.19 357.31 360.658 366.874 376.018 384.38203 390.17805 393.76606 400.24607 409.11408 412.46208 416.5301 423.73008 430.69007 436.90608">CAMBRIDGE C2 PROFICIENCY IN ENGLISH (CPE)</tspan></text>
 </g>
 <clipPath id="cp129">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.67 314.02 L 539.73 314.02 L 539.73 374.5 L 171.67 374.5 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp129)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-361.54" x="441.29"> </tspan></text>
-</g>
-</g>
 <g id="Layer-1" data-name="P">
 <clipPath id="cp130">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.67 314.02 L 539.73 314.02 L 539.73 374.5 L 171.67 374.5 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp130)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-338.5" x="178.87 184.85369 190.61656 199.48168 205.24456 207.87207 213.37 216.9911 222.48903">Completed</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-361.54" x="178.87 186.32199 194.458 205.49799 212.69799 220.13799 223.72599 232.32999 240.75399 246.96999 250.342 257.794 264.49003 267.838 274.798 282.238 291.346 297.106 300.694 308.146 311.722 317.938 327.082 334.534 341.458 344.602 348.19 357.31 360.658 366.874 376.018 384.38203 390.17805 393.76606 400.24607 409.11408 412.46208 416.5301 423.73008 430.69007 436.90608">CAMBRIDGE C2 PROFICIENCY IN ENGLISH (CPE)</tspan></text>
 </g>
 <clipPath id="cp131">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.67 314.02 L 539.73 314.02 L 539.73 374.5 L 171.67 374.5 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp131)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-338.5" x="228.34"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-361.54" x="441.29"> </tspan></text>
 </g>
+</g>
+<g id="Layer-1" data-name="P">
 <clipPath id="cp132">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.67 314.02 L 539.73 314.02 L 539.73 374.5 L 171.67 374.5 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp132)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-338.5" x="232.18 235.77902 241.5419 247.03983 250.89279 256.87648 262.39649 266.22737 271.9792 275.83216 281.58399 284.70829 287.33583 291.89533 294.52287 300.02079 305.81678 310.36528 315.3995 319.23039 321.8579 327.6208 331.45167 336.72877 342.49165 347.5369 350.16444 352.79197 357.1086 362.9046 366.70237 371.97947 376.7598 382.04795 390.9241 394.5121 402.4057 405.06636 408.66539 414.42826 418.25914 424.022 427.85289 433.11897 436.97193 442.26008 448.00086 453.49879 457.3517 460.69685 466.22789 471.7479 477.2679 481.57353 487.09355 492.61357 498.13359 501.96446 506.2811 510.8406 516.6035 520.4565 525.9544 529.2995 532.4349">the C2 Proficiency in English Exam with B grade (215/230 score). </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-338.5" x="178.87 184.85369 190.61656 199.48168 205.24456 207.87207 213.37 216.9911 222.48903">Completed</tspan></text>
 </g>
 <clipPath id="cp133">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.67 314.02 L 539.73 314.02 L 539.73 374.5 L 171.67 374.5 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp133)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-323.86" x="178.87 184.85369 188.70665 194.20458 200.00058 205.4985 211.25035 214.84938 217.4769 222.76506 225.38155 227.54538 230.41577 237.13913 240.02057 242.41625 248.422 253.93096 259.45097 264.97099 270.491 276.24287 281.76289 287.2829">Credential ID: B1965016.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-338.5" x="228.34"> </tspan></text>
 </g>
 <clipPath id="cp134">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.67 314.02 L 539.73 314.02 L 539.73 374.5 L 171.67 374.5 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp134)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-338.5" x="232.18 235.77902 241.5419 247.03983 250.89279 256.87648 262.39649 266.22737 271.9792 275.83216 281.58399 284.70829 287.33583 291.89533 294.52287 300.02079 305.81678 310.36528 315.3995 319.23039 321.8579 327.6208 331.45167 336.72877 342.49165 347.5369 350.16444 352.79197 357.1086 362.9046 366.70237 371.97947 376.7598 382.04795 390.9241 394.5121 402.4057 405.06636 408.66539 414.42826 418.25914 424.022 427.85289 433.11897 436.97193 442.26008 448.00086 453.49879 457.3517 460.69685 466.22789 471.7479 477.2679 481.57353 487.09355 492.61357 498.13359 501.96446 506.2811 510.8406 516.6035 520.4565 525.9544 529.2995 532.4349">the C2 Proficiency in English Exam with B grade (215/230 score). </tspan></text>
+</g>
+<clipPath id="cp135">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.67 314.02 L 539.73 314.02 L 539.73 374.5 L 171.67 374.5 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp135)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-323.86" x="178.87 184.85369 188.70665 194.20458 200.00058 205.4985 211.25035 214.84938 217.4769 222.76506 225.38155 227.54538 230.41577 237.13913 240.02057 242.41625 248.422 253.93096 259.45097 264.97099 270.491 276.24287 281.76289 287.2829">Credential ID: B1965016.</tspan></text>
+</g>
+<clipPath id="cp136">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M 171.67 314.02 L 539.73 314.02 L 539.73 374.5 L 171.67 374.5 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp136)">
 <text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-323.86" x="290.28"> </tspan></text>
 </g>
 </g>
-</g>
-<clipPath id="cp135">
-<path transform="matrix(1,0,0,-1,0,841.92)" d="M 62.904 24.72 L 528.914 24.72 L 528.914 84.984 L 62.904 84.984 Z " fill-rule="evenodd"/>
-</clipPath>
-<g clip-path="url(#cp135)">
-<g id="Layer-1" data-name="P">
-<clipPath id="cp136">
-<path transform="matrix(1,0,0,-1,0,841.92)" d="M 62.904 24.72 L 528.914 24.72 L 528.914 84.984 L 62.904 84.984 Z " fill-rule="evenodd"/>
-</clipPath>
-<g clip-path="url(#cp136)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Symbol"><tspan y="-73.704" x="66.264">&#xf0b7;</tspan></text>
 </g>
 <clipPath id="cp137">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 62.904 24.72 L 528.914 24.72 L 528.914 84.984 L 62.904 84.984 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp137)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Arial"><tspan y="-73.704" x="71.304"> </tspan></text>
-</g>
+<g id="Layer-1" data-name="P">
 <clipPath id="cp138">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 62.904 24.72 L 528.914 24.72 L 528.914 84.984 L 62.904 84.984 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp138)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-73.704" x="84.264 90.24768 96.01056 104.87568 110.63856 116.136478 119.7576 122.38512 125.98416 128.61168 133.41408 138.912 141.09793 146.84978 150.70275 156.45459 161.72068 165.57364 170.8618 179.48404 188.34915 190.97667 196.73955 202.00563 204.16947">Competitive Programming (</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Symbol"><tspan y="-73.704" x="66.264">&#xf0b7;</tspan></text>
 </g>
 <clipPath id="cp139">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 62.904 24.72 L 528.914 24.72 L 528.914 84.984 L 62.904 84.984 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp139)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-73.704" x="207.67 213.66472 218.95288 224.21897 229.98184 232.60936 237.89752 241.75049 243.89225 248.45177 254.21465 263.07978 268.84266 274.34059 277.9617 280.58924 284.18827 289.95115 293.8041 295.94587 298.5734 304.33628 306.5001">Regular competitor in w</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Arial"><tspan y="-73.704" x="71.304"> </tspan></text>
 </g>
 <clipPath id="cp140">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 62.904 24.72 L 528.914 24.72 L 528.914 84.984 L 62.904 84.984 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp140)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-73.704" x="314.52 320.0179 325.54896 330.57215 333.22178 338.256 340.41984 343.04737 348.81025 352.40928 357.9072 361.76017 367.55616 372.8112 376.41023 379.03776 384.80064 390.5635 395.85166 398.46815 400.63197 406.39485 412.1577 414.78526 417.41279 423.17567 428.67359 430.8595 435.419 441.1819 446.94477 449.5723 455.33518 460.60127 462.76509 467.3246 473.08747 481.95259 487.71546 493.21339 496.8345 499.46205 503.06108 505.6886 511.45149 517.21438 521.531">eekly international online coding competitions </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-73.704" x="84.264 90.24768 96.01056 104.87568 110.63856 116.136478 119.7576 122.38512 125.98416 128.61168 133.41408 138.912 141.09793 146.84978 150.70275 156.45459 161.72068 165.57364 170.8618 179.48404 188.34915 190.97667 196.73955 202.00563 204.16947">Competitive Programming (</tspan></text>
 </g>
 <clipPath id="cp141">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 62.904 24.72 L 528.914 24.72 L 528.914 84.984 L 62.904 84.984 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp141)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-59.304" x="84.264 89.55216 94.81824 100.1064 102.72288 108.485759 112.8024 116.40144 118.79713 122.39617 128.15904 133.92192 139.6848 144.00144 149.2896 155.04145 160.80432 165.12096">against thousands </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-73.704" x="207.67 213.66472 218.95288 224.21897 229.98184 232.60936 237.89752 241.75049 243.89225 248.45177 254.21465 263.07978 268.84266 274.34059 277.9617 280.58924 284.18827 289.95115 293.8041 295.94587 298.5734 304.33628 306.5001">Regular competitor in w</tspan></text>
 </g>
 <clipPath id="cp142">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 62.904 24.72 L 528.914 24.72 L 528.914 84.984 L 62.904 84.984 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp142)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-59.304" x="167.59 173.35288 176.72008 179.11576 185.09944 188.69847 194.46135 199.95928 203.81224 206.21897 210.77849 216.54137 225.40648 231.16936 236.66728 240.28839 242.91591 246.51494 252.27782 256.13078 260.6682 263.06388 268.35203 274.10386 279.86674 282.2624 286.57905 290.17808 295.94096 301.70384 307.20176 313.2075 316.80653 321.12318 324.4683">of other competitors and students).</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-73.704" x="314.52 320.0179 325.54896 330.57215 333.22178 338.256 340.41984 343.04737 348.81025 352.40928 357.9072 361.76017 367.55616 372.8112 376.41023 379.03776 384.80064 390.5635 395.85166 398.46815 400.63197 406.39485 412.1577 414.78526 417.41279 423.17567 428.67359 430.8595 435.419 441.1819 446.94477 449.5723 455.33518 460.60127 462.76509 467.3246 473.08747 481.95259 487.71546 493.21339 496.8345 499.46205 503.06108 505.6886 511.45149 517.21438 521.531">eekly international online coding competitions </tspan></text>
 </g>
 <clipPath id="cp143">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 62.904 24.72 L 528.914 24.72 L 528.914 84.984 L 62.904 84.984 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp143)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-59.304" x="327.48"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-59.304" x="84.264 89.55216 94.81824 100.1064 102.72288 108.485759 112.8024 116.40144 118.79713 122.39617 128.15904 133.92192 139.6848 144.00144 149.2896 155.04145 160.80432 165.12096">against thousands </tspan></text>
 </g>
-</g>
-<g id="Layer-1" data-name="P">
 <clipPath id="cp144">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 62.904 24.72 L 528.914 24.72 L 528.914 84.984 L 62.904 84.984 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp144)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="5.04" font-family="Calibri"><tspan y="-50.904" x="84.264"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-59.304" x="167.59 173.35288 176.72008 179.11576 185.09944 188.69847 194.46135 199.95928 203.81224 206.21897 210.77849 216.54137 225.40648 231.16936 236.66728 240.28839 242.91591 246.51494 252.27782 256.13078 260.6682 263.06388 268.35203 274.10386 279.86674 282.2624 286.57905 290.17808 295.94096 301.70384 307.20176 313.2075 316.80653 321.12318 324.4683">of other competitors and students).</tspan></text>
 </g>
-</g>
-<g id="Layer-1" data-name="P">
 <clipPath id="cp145">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 62.904 24.72 L 528.914 24.72 L 528.914 84.984 L 62.904 84.984 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp145)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Symbol"><tspan y="-37.2" x="66.264">&#xf0b7;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-59.304" x="327.48"> </tspan></text>
 </g>
+</g>
+<g id="Layer-1" data-name="P">
 <clipPath id="cp146">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 62.904 24.72 L 528.914 24.72 L 528.914 84.984 L 62.904 84.984 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp146)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Arial"><tspan y="-37.2" x="71.304"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="5.04" font-family="Calibri"><tspan y="-50.904" x="84.264"> </tspan></text>
 </g>
+</g>
+<g id="Layer-1" data-name="P">
 <clipPath id="cp147">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 62.904 24.72 L 528.914 24.72 L 528.914 84.984 L 62.904 84.984 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp147)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-37.2" x="84.264 89.784008 92.17969 97.942569 103.705448 106.10113 111.85297 114.24865 117.847698 123.831378 127.43042 133.1933 137.04627 139.66275 145.42563 150.69171 153.08739 158.85027 164.61315 167.00882 173.47827 176.10579 181.37187 187.13475 190.98772 193.6042 197.20323 202.96611 211.83123 216.14786 218.7864 221.18209 227.90544 233.1936 236.7816 242.06977 244.46544 249.5328 253.10976 256.9627 262.71455 267.5059 271.10493 276.8678 280.72077 286.2187 290.53535 292.9531 298.24125 303.99308 309.75596 312.1516 321.9772 327.74009 333.50297 335.89863 342.62199 348.1199 353.17625 358.67417 361.3238 367.08668 372.84956 381.71467 387.2126 393.00859 396.59657">1 on 1 tutoring on Algorithms, Data Structures and Web Development.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Symbol"><tspan y="-37.2" x="66.264">&#xf0b7;</tspan></text>
 </g>
 <clipPath id="cp148">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 62.904 24.72 L 528.914 24.72 L 528.914 84.984 L 62.904 84.984 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp148)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Arial"><tspan y="-37.2" x="71.304"> </tspan></text>
+</g>
+<clipPath id="cp149">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M 62.904 24.72 L 528.914 24.72 L 528.914 84.984 L 62.904 84.984 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp149)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-37.2" x="84.264 89.784008 92.17969 97.942569 103.705448 106.10113 111.85297 114.24865 117.847698 123.831378 127.43042 133.1933 137.04627 139.66275 145.42563 150.69171 153.08739 158.85027 164.61315 167.00882 173.47827 176.10579 181.37187 187.13475 190.98772 193.6042 197.20323 202.96611 211.83123 216.14786 218.7864 221.18209 227.90544 233.1936 236.7816 242.06977 244.46544 249.5328 253.10976 256.9627 262.71455 267.5059 271.10493 276.8678 280.72077 286.2187 290.53535 292.9531 298.24125 303.99308 309.75596 312.1516 321.9772 327.74009 333.50297 335.89863 342.62199 348.1199 353.17625 358.67417 361.3238 367.08668 372.84956 381.71467 387.2126 393.00859 396.59657">1 on 1 tutoring on Algorithms, Data Structures and Web Development.</tspan></text>
+</g>
+<clipPath id="cp150">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M 62.904 24.72 L 528.914 24.72 L 528.914 84.984 L 62.904 84.984 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp150)">
 <text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-37.2" x="399.5"> </tspan></text>
 </g>
 </g>
-</g>
-<clipPath id="cp149">
-<path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 201.89 L 531.794 201.89 L 531.794 260.954 L 57.144 260.954 Z " fill-rule="evenodd"/>
-</clipPath>
-<g clip-path="url(#cp149)">
-<g id="Layer-1" data-name="P">
-<clipPath id="cp150">
-<path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 201.89 L 531.794 201.89 L 531.794 260.954 L 57.144 260.954 Z " fill-rule="evenodd"/>
-</clipPath>
-<g clip-path="url(#cp150)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-247.99" x="64.344 72.948 79.452 84.72 87.852008 95.04001 102.00001 109.18801 112.53601 124.056018 130.524 137.48401 142.752 145.884">Designo Websit</tspan></text>
 </g>
 <clipPath id="cp151">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 201.89 L 531.794 201.89 L 531.794 260.954 L 57.144 260.954 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp151)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-247.99" x="150.29">e</tspan></text>
-</g>
+<g id="Layer-1" data-name="P">
 <clipPath id="cp152">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 201.89 L 531.794 201.89 L 531.794 260.954 L 57.144 260.954 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp152)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri Light,Italic" font-style="italic"><tspan y="-247.99" x="156.55"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-247.99" x="64.344 72.948 79.452 84.72 87.852008 95.04001 102.00001 109.18801 112.53601 124.056018 130.524 137.48401 142.752 145.884">Designo Websit</tspan></text>
 </g>
-</g>
-<g id="Layer-1" data-name="P">
 <clipPath id="cp153">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 201.89 L 531.794 201.89 L 531.794 260.954 L 57.144 260.954 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp153)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Symbol"><tspan y="-223.51" x="64.344">&#xf0b7;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-247.99" x="150.29">e</tspan></text>
 </g>
 <clipPath id="cp154">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 201.89 L 531.794 201.89 L 531.794 260.954 L 57.144 260.954 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp154)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Arial"><tspan y="-223.51" x="69.864"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Calibri Light,Italic" font-style="italic"><tspan y="-247.99" x="156.55"> </tspan></text>
 </g>
+</g>
+<g id="Layer-1" data-name="P">
 <clipPath id="cp155">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 201.89 L 531.794 201.89 L 531.794 260.954 L 57.144 260.954 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp155)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-223.51" x="78.504 84.48768 88.34064 93.838558 99.12672 102.72576 108.22368 114.01968 119.03184 124.32 129.3432">Created a r</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Symbol"><tspan y="-223.51" x="64.344">&#xf0b7;</tspan></text>
 </g>
 <clipPath id="cp156">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 201.89 L 531.794 201.89 L 531.794 260.954 L 57.144 260.954 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp156)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-223.51" x="133.25 138.74793 143.06456 148.86057 154.61241 160.37529 164.69193 167.31945 172.35369 177.85161 180.51224 185.54648 191.29831 196.33255 202.09543 207.38359 212.64968 218.1476 223.20392 233.02953 238.54953 244.31241 248.62905 251.25656 254.85559 260.35353 265.40983 268.777 274.52885 278.6026 283.63685 289.14579 294.18003 297.5472 300.1637 304.7232 308.32225 310.94978 316.71266 322.69633 327.98448 330.60096 335.6352 345.4608 350.9808 356.74369 361.77793 368.50129 373.9992 378.31587 380.96549 386.23158 391.99446 397.0287 401.5882 407.35108 416.2162 421.97908 427.2672 433.01905 438.05329 443.08753 448.8504 453.16706 455.7946 461.55747 466.82356 471.8578 480.7229 486.48579 492.24867 494.8762 497.50373">esponsive, 7 page Website for a fictional Web Design company using mobile</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Arial"><tspan y="-223.51" x="69.864"> </tspan></text>
 </g>
 <clipPath id="cp157">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 201.89 L 531.794 201.89 L 531.794 260.954 L 57.144 260.954 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp157)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-223.51" x="503.47">-</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-223.51" x="78.504 84.48768 88.34064 93.838558 99.12672 102.72576 108.22368 114.01968 119.03184 124.32 129.3432">Created a r</tspan></text>
 </g>
 <clipPath id="cp158">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 201.89 L 531.794 201.89 L 531.794 260.954 L 57.144 260.954 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp158)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-223.51" x="506.83 510.19718 512.81369">fir</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-223.51" x="133.25 138.74793 143.06456 148.86057 154.61241 160.37529 164.69193 167.31945 172.35369 177.85161 180.51224 185.54648 191.29831 196.33255 202.09543 207.38359 212.64968 218.1476 223.20392 233.02953 238.54953 244.31241 248.62905 251.25656 254.85559 260.35353 265.40983 268.777 274.52885 278.6026 283.63685 289.14579 294.18003 297.5472 300.1637 304.7232 308.32225 310.94978 316.71266 322.69633 327.98448 330.60096 335.6352 345.4608 350.9808 356.74369 361.77793 368.50129 373.9992 378.31587 380.96549 386.23158 391.99446 397.0287 401.5882 407.35108 416.2162 421.97908 427.2672 433.01905 438.05329 443.08753 448.8504 453.16706 455.7946 461.55747 466.82356 471.8578 480.7229 486.48579 492.24867 494.8762 497.50373">esponsive, 7 page Website for a fictional Web Design company using mobile</tspan></text>
 </g>
 <clipPath id="cp159">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 201.89 L 531.794 201.89 L 531.794 260.954 L 57.144 260.954 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp159)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-223.51" x="516.67 520.98666 524.5857">st </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-223.51" x="503.47">-</tspan></text>
 </g>
 <clipPath id="cp160">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 201.89 L 531.794 201.89 L 531.794 260.954 L 57.144 260.954 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp160)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-208.85" x="78.504 84.26688 89.76479 94.82111 100.31903 102.96863 108.73151 114.494388 123.359508 128.85742 134.65343 138.24143 140.6371 145.92527 151.67711 157.43999 161.29296 167.0448 172.33296 176.88144 182.64432 185.04 190.32816 196.08 201.84288 204.23856 207.83759 213.33551 217.91712 223.68 229.66368 235.42656 238.05408 243.81696 249.08304 251.71056 257.20848 261.52513 263.9539 268.27055 274.06654 278.59294 284.3558 286.75148 292.0396 296.35627 298.75193 302.33995 307.62809 312.65129 317.93943 322.97367 327.53318 331.38615 334.00263 339.7655 343.36454 346.0031 348.39878 353.46614 359.90245 364.9698 369.98194 372.85237 375.24803 379.80757 385.30549 390.59364 393.96083 396.5994 402.09733 405.71846 408.58885 411.2274 415.54405 418.19364 420.5893 426.57298 431.64033 436.65248 442.1725 444.56816 449.8563 455.60813 461.371 463.76667 470.71086 475.98799 485.3499 490.1413 495.66133">development approach and technologies such as JavaScript, SASS, Leaflet.js, CSS3 and HTML5.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-223.51" x="506.83 510.19718 512.81369">fir</tspan></text>
 </g>
 <clipPath id="cp161">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 201.89 L 531.794 201.89 L 531.794 260.954 L 57.144 260.954 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp161)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-223.51" x="516.67 520.98666 524.5857">st </tspan></text>
+</g>
+<clipPath id="cp162">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 201.89 L 531.794 201.89 L 531.794 260.954 L 57.144 260.954 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp162)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-208.85" x="78.504 84.26688 89.76479 94.82111 100.31903 102.96863 108.73151 114.494388 123.359508 128.85742 134.65343 138.24143 140.6371 145.92527 151.67711 157.43999 161.29296 167.0448 172.33296 176.88144 182.64432 185.04 190.32816 196.08 201.84288 204.23856 207.83759 213.33551 217.91712 223.68 229.66368 235.42656 238.05408 243.81696 249.08304 251.71056 257.20848 261.52513 263.9539 268.27055 274.06654 278.59294 284.3558 286.75148 292.0396 296.35627 298.75193 302.33995 307.62809 312.65129 317.93943 322.97367 327.53318 331.38615 334.00263 339.7655 343.36454 346.0031 348.39878 353.46614 359.90245 364.9698 369.98194 372.85237 375.24803 379.80757 385.30549 390.59364 393.96083 396.5994 402.09733 405.71846 408.58885 411.2274 415.54405 418.19364 420.5893 426.57298 431.64033 436.65248 442.1725 444.56816 449.8563 455.60813 461.371 463.76667 470.71086 475.98799 485.3499 490.1413 495.66133">development approach and technologies such as JavaScript, SASS, Leaflet.js, CSS3 and HTML5.</tspan></text>
+</g>
+<clipPath id="cp163">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 201.89 L 531.794 201.89 L 531.794 260.954 L 57.144 260.954 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp163)">
 <text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-208.85" x="498.91"> </tspan></text>
 </g>
 </g>
-</g>
-<clipPath id="cp162">
-<path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 136.13 L 531.074 136.13 L 531.074 190.13 L 57.144 190.13 Z " fill-rule="evenodd"/>
-</clipPath>
-<g clip-path="url(#cp162)">
-<g id="Layer-1" data-name="P">
-<clipPath id="cp163">
-<path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 136.13 L 531.074 136.13 L 531.074 190.13 L 57.144 190.13 Z " fill-rule="evenodd"/>
-</clipPath>
-<g clip-path="url(#cp163)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-177.17" x="64.344">F</tspan></text>
 </g>
 <clipPath id="cp164">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 136.13 L 531.074 136.13 L 531.074 190.13 L 57.144 190.13 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp164)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-177.17" x="70.344 73.476 76.608 83.052">ile </tspan></text>
-</g>
+<g id="Layer-1" data-name="P">
 <clipPath id="cp165">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 136.13 L 531.074 136.13 L 531.074 190.13 L 57.144 190.13 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp165)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-177.17" x="86.424">S</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-177.17" x="64.344">F</tspan></text>
 </g>
 <clipPath id="cp166">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 136.13 L 531.074 136.13 L 531.074 190.13 L 57.144 190.13 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp166)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-177.17" x="92.928 98.928 104.196 108.528 114.984">ystem</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-177.17" x="70.344 73.476 76.608 83.052">ile </tspan></text>
 </g>
 <clipPath id="cp167">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 136.13 L 531.074 136.13 L 531.074 190.13 L 57.144 190.13 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp167)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-177.17" x="125.57"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-177.17" x="86.424">S</tspan></text>
 </g>
 <clipPath id="cp168">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 136.13 L 531.074 136.13 L 531.074 190.13 L 57.144 190.13 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp168)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-177.17" x="128.93 136.38199 139.51399 142.61 149.07799 156.038">Client</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-177.17" x="92.928 98.928 104.196 108.528 114.984">ystem</tspan></text>
 </g>
 <clipPath id="cp169">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 136.13 L 531.074 136.13 L 531.074 190.13 L 57.144 190.13 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp169)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-177.17" x="160.39">-</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-177.17" x="125.57"> </tspan></text>
 </g>
 <clipPath id="cp170">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 136.13 L 531.074 136.13 L 531.074 190.13 L 57.144 190.13 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp170)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-177.17" x="165.19 171.67 178.13799 182.68599 188.68599 194.92598">Server</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-177.17" x="128.93 136.38199 139.51399 142.61 149.07799 156.038">Client</tspan></text>
 </g>
 <clipPath id="cp171">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 136.13 L 531.074 136.13 L 531.074 190.13 L 57.144 190.13 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp171)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-177.17" x="160.39">-</tspan></text>
+</g>
+<clipPath id="cp172">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 136.13 L 531.074 136.13 L 531.074 190.13 L 57.144 190.13 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp172)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-177.17" x="165.19 171.67 178.13799 182.68599 188.68599 194.92598">Server</tspan></text>
+</g>
+<clipPath id="cp173">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 136.13 L 531.074 136.13 L 531.074 190.13 L 57.144 190.13 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp173)">
 <text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="Segoe UI Semibold,Bold" font-weight="bold"><tspan y="-177.17" x="199.27"> </tspan></text>
 </g>
 </g>
@@ -1123,27 +1135,11 @@
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 78.504 150.77 L 516.914 150.77 L 516.914 164.21 L 78.504 164.21 Z " fill="#ffffff" fill-rule="evenodd"/>
 </g>
 <g id="Layer-1" data-name="P">
-<clipPath id="cp172">
-<path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 136.13 L 531.074 136.13 L 531.074 190.13 L 57.144 190.13 Z " fill-rule="evenodd"/>
-</clipPath>
-<g clip-path="url(#cp172)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Symbol"><tspan y="-153.65" x="64.344">&#xf0b7;</tspan></text>
-</g>
-</g>
-<g id="Layer-1" data-name="P">
-<clipPath id="cp173">
-<path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 136.13 L 531.074 136.13 L 531.074 190.13 L 57.144 190.13 Z " fill-rule="evenodd"/>
-</clipPath>
-<g clip-path="url(#cp173)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Arial"><tspan y="-153.65" x="69.384"> </tspan></text>
-</g>
-</g>
-<g id="Layer-1" data-name="P">
 <clipPath id="cp174">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 136.13 L 531.074 136.13 L 531.074 190.13 L 57.144 190.13 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp174)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-153.65" x="78.504 83.57136 86.176799 88.80431 94.30223 96.71999 101.78735 106.788478 111.10512 114.7152 120.21312 129.10031 131.49599 137.25887 143.02175 145.41742 148.04494 151.64397 154.03964 156.66716 162.43004 164.82572 170.8094 173.20508 181.09868 183.75933 187.35836 193.12123 195.5169 198.14443 205.33147 211.09435 216.85723 222.35515 226.67179 229.10059 233.41722 237.01625 242.77913 246.6321 251.92026 257.16426 262.66218 265.07994 270.36808 276.1199 281.88279">File System built in C with iNodes storage and </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Symbol"><tspan y="-153.65" x="64.344">&#xf0b7;</tspan></text>
 </g>
 </g>
 <g id="Layer-1" data-name="P">
@@ -1151,7 +1147,7 @@
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 136.13 L 531.074 136.13 L 531.074 190.13 L 57.144 190.13 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp175)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-153.65" x="284.52 290.50367 292.89936 295.5269 301.0248 306.8208">Client</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Arial"><tspan y="-153.65" x="69.384"> </tspan></text>
 </g>
 </g>
 <g id="Layer-1" data-name="P">
@@ -1159,7 +1155,7 @@
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 136.13 L 531.074 136.13 L 531.074 190.13 L 57.144 190.13 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp176)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-153.65" x="310.44">-</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-153.65" x="78.504 83.57136 86.176799 88.80431 94.30223 96.71999 101.78735 106.788478 111.10512 114.7152 120.21312 129.10031 131.49599 137.25887 143.02175 145.41742 148.04494 151.64397 154.03964 156.66716 162.43004 164.82572 170.8094 173.20508 181.09868 183.75933 187.35836 193.12123 195.5169 198.14443 205.33147 211.09435 216.85723 222.35515 226.67179 229.10059 233.41722 237.01625 242.77913 246.6321 251.92026 257.16426 262.66218 265.07994 270.36808 276.1199 281.88279">File System built in C with iNodes storage and </tspan></text>
 </g>
 </g>
 <g id="Layer-1" data-name="P">
@@ -1167,7 +1163,7 @@
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 136.13 L 531.074 136.13 L 531.074 190.13 L 57.144 190.13 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp177)">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-153.65" x="313.8 318.86735 324.12239 327.97535 332.98753 338.48545 342.3384 344.74513 349.30464 355.0675 363.93263 372.79774 378.5606 384.3235 386.95103 391.51054 396.79869 400.38667 403.0142 408.77708 414.53996 416.9356 420.53465 426.29753 430.15049 435.9023 441.6652 446.93128 452.69416 455.0898 462.27687 467.565 476.4301 481.92805 487.72404 490.10865 495.86048 498.488 504.2509 509.7488 514.0654">Server communication through Named Pipes.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-153.65" x="284.52 290.50367 292.89936 295.5269 301.0248 306.8208">Client</tspan></text>
 </g>
 </g>
 <g id="Layer-1" data-name="P">
@@ -1175,21 +1171,37 @@
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 136.13 L 531.074 136.13 L 531.074 190.13 L 57.144 190.13 Z " fill-rule="evenodd"/>
 </clipPath>
 <g clip-path="url(#cp178)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-153.65" x="310.44">-</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp179">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 136.13 L 531.074 136.13 L 531.074 190.13 L 57.144 190.13 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp179)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-153.65" x="313.8 318.86735 324.12239 327.97535 332.98753 338.48545 342.3384 344.74513 349.30464 355.0675 363.93263 372.79774 378.5606 384.3235 386.95103 391.51054 396.79869 400.38667 403.0142 408.77708 414.53996 416.9356 420.53465 426.29753 430.15049 435.9023 441.6652 446.93128 452.69416 455.0898 462.27687 467.565 476.4301 481.92805 487.72404 490.10865 495.86048 498.488 504.2509 509.7488 514.0654">Server communication through Named Pipes.</tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp180">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M 57.144 136.13 L 531.074 136.13 L 531.074 190.13 L 57.144 190.13 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp180)">
 <text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-153.65" x="516.91"> </tspan></text>
 </g>
 </g>
 </g>
 <g id="Layer-1" data-name="P">
-<clipPath id="cp179">
+<clipPath id="cp181">
 <path transform="matrix(1,0,0,-1,0,841.92)" d="M 0 .00048828 L 595.2 .00048828 L 595.2 841.9205 L 0 841.9205 Z " fill-rule="evenodd"/>
 </clipPath>
-<g clip-path="url(#cp179)">
-<mask id="ma180">
+<g clip-path="url(#cp181)">
+<mask id="ma182">
 <g transform="matrix(.32717393,0,0,.32729764,523.25,22.750985)">
-<use xlink:href="#im181" x="0" y="0" width="46" height="252"/>
+<use xlink:href="#im183" x="0" y="0" width="46" height="252"/>
 </g>
 </mask>
-<symbol id="im181" viewBox="0 0 46 252">
+<symbol id="im183" viewBox="0 0 46 252">
 <image width="46" height="252" xlink:href="data:image/png;base64,
 iVBORw0KGgoAAAANSUhEUgAAAC4AAAD8CAAAAAAtJMnPAAAACXBIWXMAAA7EAAAO
 xAGVKw4bAAANZUlEQVR4nO2ae1xN2R7Af+ecOpXeT1N6UxNRESJ5hFEiQ2bMJML1
@@ -1266,9 +1278,9 @@ BQust34cc9xRftKC4rUHw2XbMAr2XRC03ZwH/zAmSc3+aocpoZYqeMWRqOcKhIpv
 MogaWdmXzXgaprRLiHyh1M5xlMba8rNBZoIyldb/Asiw4zn0WSNaAAAAAElFTkSu
 QmCC"/>
 </symbol>
-<g mask="url(#ma180)">
+<g mask="url(#ma182)">
 <g transform="matrix(.32717393,0,0,.32729764,523.25,22.750985)">
-<symbol id="im182" viewBox="0 0 46 252">
+<symbol id="im184" viewBox="0 0 46 252">
 <image width="46" height="252" xlink:href="data:image/png;base64,
 iVBORw0KGgoAAAANSUhEUgAAAC4AAAD8CAYAAAAIT5YTAAAACXBIWXMAAA7EAAAO
 xAGVKw4bAAABCklEQVR4nO3OAQkAIAAEsbd/aG1xIGwJdrbdfehMvCVeE6+J18Rr
@@ -1279,7 +1291,7 @@ E6+J18Rr4jXxmnhNvCZeE6+J18Rr4jXxmnhNvCZeE6+J18Rr4jXxmnhNvCZeE6+J
 18Rr4jXxmnhNvCZeE6+J18Rr4jXxmnhNvCZeE6+J18Rr38Yf5e78AQcLZCAAAAAA
 SUVORK5CYII="/>
 </symbol>
-<use xlink:href="#im182" x="0" y="0" width="46" height="252"/>
+<use xlink:href="#im184" x="0" y="0" width="46" height="252"/>
 </g>
 </g>
 </g>
