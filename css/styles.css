@@ -212,13 +212,12 @@ body::-webkit-scrollbar-thumb {
 
 #projects .project-card {
   width: 23rem;
-  margin-bottom: 2.2rem;
+  margin-bottom: 3rem !important;
 }
 
 @media screen and (max-width: 992px) {
   #projects .project-card {
     width: 22rem !important;
-    margin-bottom: 40px;
   }
 }
 

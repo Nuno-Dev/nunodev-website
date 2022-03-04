@@ -160,10 +160,9 @@ body {
   }
   .project-card {
     width: 23rem;
-    margin-bottom: 3rem;
+    margin-bottom: 3rem !important;
     @media screen and (max-width: $large) {
       width: 22rem !important;
-      margin-bottom: 40px;
     }
     @media screen and (max-width: $extra-large) {
       width: 19rem;
