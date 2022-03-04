@@ -4,6 +4,20 @@ $med-large: 928px;
 $large: 992px;
 $extra-large: 1200px;
 
+@font-face {
+  font-family: "segoe";
+  src: url("/img/fonts/Segoe\ UI.ttf");
+}
+
+@font-face {
+  font-family: "segoe-bold";
+  src: url("/img/fonts/Segoe\ UI\ Bold.ttf");
+}
+
+body {
+  font-family: "segoe", sans-serif;
+}
+
 body {
   &::-webkit-scrollbar {
     width: 10px;
@@ -27,6 +41,9 @@ body {
 #about {
   padding-bottom: 30px;
   text-align: justify;
+  h3 {
+    font-size: 1.1rem;
+  }
   .bio {
     margin-left: -3px;
     font-size: 1.8rem;
@@ -135,7 +152,8 @@ body {
     }
   }
   .project-card {
-    width: 25rem;
+    width: 23rem;
+    margin-bottom: 2.2rem;
     @media screen and (max-width: $large) {
       width: 22rem !important;
       margin-bottom: 40px;
@@ -144,7 +162,7 @@ body {
       width: 19rem;
     }
     .card-header {
-      height: 230px;
+      height: 220px;
       padding: 0;
       img {
         height: 100%;
@@ -161,6 +179,9 @@ body {
       @media screen and (max-width: $med-large) {
         padding-top: 5px;
       }
+      .card-title {
+        font-size: 0.9rem;
+      }
     }
     .btns-container {
       display: flex;
@@ -169,7 +190,7 @@ body {
       .btn-website {
         display: flex;
         align-items: center;
-        height: 35px;
+        height: 32px;
         @media screen and (max-width: $med-large) {
           height: 28px;
         }
@@ -179,7 +200,7 @@ body {
       padding: 0;
       text-align: justify;
       @media screen and (min-width: $large) {
-        font-size: 18px;
+        font-size: 16px;
       }
     }
     a.btn:visited {
@@ -198,9 +219,12 @@ body {
 }
 
 .section-heading {
-  margin-bottom: 30px;
+  margin-bottom: 40px;
   @media screen and (max-width: $large) {
     text-align: center;
+  }
+  h1 {
+    font-size: 2rem;
   }
 }
 
@@ -230,6 +254,12 @@ body {
     padding-top: 10px;
     padding-bottom: 30px;
     justify-content: center;
+  }
+}
+
+.modal-dialog {
+  @media screen and (min-width: $small) {
+    max-width: 580px;
   }
 }
 

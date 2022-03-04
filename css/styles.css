@@ -1,3 +1,17 @@
+@font-face {
+  font-family: "segoe";
+  src: url("/img/fonts/Segoe UI.ttf");
+}
+
+@font-face {
+  font-family: "segoe-bold";
+  src: url("/img/fonts/Segoe UI Bold.ttf");
+}
+
+body {
+  font-family: "segoe", sans-serif;
+}
+
 body::-webkit-scrollbar {
   width: 10px;
 }
@@ -20,6 +34,10 @@ body::-webkit-scrollbar-thumb {
 #about {
   padding-bottom: 30px;
   text-align: justify;
+}
+
+#about h3 {
+  font-size: 1.1rem;
 }
 
 #about .bio {
@@ -179,7 +197,8 @@ body::-webkit-scrollbar-thumb {
 }
 
 #projects .project-card {
-  width: 25rem;
+  width: 23rem;
+  margin-bottom: 2.2rem;
 }
 
 @media screen and (max-width: 992px) {
@@ -196,7 +215,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 #projects .project-card .card-header {
-  height: 230px;
+  height: 220px;
   padding: 0;
 }
 
@@ -226,6 +245,10 @@ body::-webkit-scrollbar-thumb {
   }
 }
 
+#projects .project-card .card-body .card-title {
+  font-size: 0.9rem;
+}
+
 #projects .project-card .btns-container {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -245,7 +268,7 @@ body::-webkit-scrollbar-thumb {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  height: 35px;
+  height: 32px;
 }
 
 @media screen and (max-width: 928px) {
@@ -261,7 +284,7 @@ body::-webkit-scrollbar-thumb {
 
 @media screen and (min-width: 992px) {
   #projects .project-card .card-text {
-    font-size: 18px;
+    font-size: 16px;
   }
 }
 
@@ -281,13 +304,17 @@ body::-webkit-scrollbar-thumb {
 }
 
 .section-heading {
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 }
 
 @media screen and (max-width: 992px) {
   .section-heading {
     text-align: center;
   }
+}
+
+.section-heading h1 {
+  font-size: 2rem;
 }
 
 .navbar-brand {
@@ -321,6 +348,12 @@ body::-webkit-scrollbar-thumb {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+}
+
+@media screen and (min-width: 576px) {
+  .modal-dialog {
+    max-width: 580px;
+  }
 }
 
 @media screen and (max-width: 992px) {
