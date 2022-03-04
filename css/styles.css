@@ -46,12 +46,12 @@ body::-webkit-scrollbar-thumb {
 
 #about .bio {
   margin-left: -3px;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   margin-bottom: 20px;
 }
 
 #about .network-icon i {
-  font-size: 2.3rem;
+  font-size: 2.1rem;
 }
 
 #about .fa-github {
@@ -59,18 +59,18 @@ body::-webkit-scrollbar-thumb {
 }
 
 #about #profile {
-  padding-bottom: 17px;
+  padding-bottom: 15px;
 }
 
 @media screen and (max-width: 928px) {
   #about #profile {
-    padding-top: 14px;
+    padding-top: 15px;
   }
 }
 
 @media screen and (max-width: 992px) {
   #about .network-icon i {
-    font-size: 3rem;
+    font-size: 2.8rem;
   }
 }
 
@@ -110,7 +110,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 #experience .exp-meta {
-  margin-top: 10px;
+  margin-top: 3px;
 }
 
 #experience .identity {
@@ -329,6 +329,23 @@ body::-webkit-scrollbar-thumb {
 
 .section-heading h1 {
   font-size: 2rem;
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 576px) {
+  .navbar {
+    padding: 0.2rem 1.6rem !important;
+  }
+}
+
+.navbar .navbar-collapse {
+  margin-bottom: 5px;
+}
+
+@media screen and (max-width: 576px) {
+  .col-12 {
+    padding: 0 1.8rem;
+  }
 }
 
 .navbar-brand {
