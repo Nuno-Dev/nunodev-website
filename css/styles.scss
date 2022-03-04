@@ -1,7 +1,7 @@
 $small: 576px;
 $medium: 768px;
 $med-large: 928px;
-$large: 992px;
+$large: 991px;
 $extra-large: 1200px;
 
 @font-face {
@@ -50,12 +50,26 @@ body {
     font-size: 1.6rem;
     margin-bottom: 20px;
   }
-  .network-icon i {
-    font-size: 2.1rem;
+  .network-icon {
+    width: 150px;
+    justify-content: space-between;
+    i {
+      font-size: 2.1rem;
+    }
+    .lc-logo {
+      width: 1.8rem;
+    }
+    @media screen and (max-width: $large) {
+      width: 200px;
+      .lc-logo {
+        width: 2.5rem;
+      }
+    }
+    @media screen and (max-width: $med-large) {
+      width: 160px;
+    }
   }
-  .fa-github {
-    margin-right: 10px;
-  }
+
   #profile {
     padding-bottom: 15px;
     @media screen and (max-width: $med-large) {

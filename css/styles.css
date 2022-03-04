@@ -50,12 +50,34 @@ body::-webkit-scrollbar-thumb {
   margin-bottom: 20px;
 }
 
+#about .network-icon {
+  width: 150px;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
 #about .network-icon i {
   font-size: 2.1rem;
 }
 
-#about .fa-github {
-  margin-right: 10px;
+#about .network-icon .lc-logo {
+  width: 1.8rem;
+}
+
+@media screen and (max-width: 991px) {
+  #about .network-icon {
+    width: 200px;
+  }
+  #about .network-icon .lc-logo {
+    width: 2.5rem;
+  }
+}
+
+@media screen and (max-width: 928px) {
+  #about .network-icon {
+    width: 160px;
+  }
 }
 
 #about #profile {
@@ -68,7 +90,7 @@ body::-webkit-scrollbar-thumb {
   }
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 991px) {
   #about .network-icon i {
     font-size: 2.8rem;
   }
@@ -167,7 +189,7 @@ body::-webkit-scrollbar-thumb {
   margin-right: 10px;
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 991px) {
   #certifications .certifications-box {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -196,7 +218,7 @@ body::-webkit-scrollbar-thumb {
   }
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 991px) {
   #projects .col-card {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -215,7 +237,7 @@ body::-webkit-scrollbar-thumb {
   margin-bottom: 3rem !important;
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 991px) {
   #projects .project-card {
     width: 22rem !important;
   }
@@ -295,7 +317,7 @@ body::-webkit-scrollbar-thumb {
   text-align: justify;
 }
 
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 991px) {
   #projects .project-card .card-text {
     font-size: 16px;
   }
@@ -320,7 +342,7 @@ body::-webkit-scrollbar-thumb {
   margin-bottom: 40px;
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 991px) {
   .section-heading {
     text-align: center;
   }
@@ -386,7 +408,7 @@ body::-webkit-scrollbar-thumb {
   }
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 991px) {
   .mobile-box,
   .col-card {
     max-width: 100%;
