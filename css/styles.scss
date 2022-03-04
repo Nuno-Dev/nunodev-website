@@ -38,6 +38,10 @@ body {
   }
 }
 
+.fa-bars {
+  font-size: 26px;
+}
+
 #about {
   padding-bottom: 30px;
   text-align: justify;
@@ -54,6 +58,12 @@ body {
   }
   .fa-github {
     margin-right: 10px;
+  }
+  #profile {
+    padding-bottom: 17px;
+    @media screen and (max-width: $med-large) {
+      padding-top: 14px;
+    }
   }
   @media screen and (max-width: $large) {
     .network-icon {
