@@ -153,11 +153,11 @@ button {
   margin-top: 3px;
 }
 
-#experience .identity {
+#experience .company-logo {
   margin-left: 0;
 }
 
-#experience .identity img {
+#experience .company-logo img {
   width: 20px;
   height: 20px;
   margin-right: 5px;
@@ -165,7 +165,7 @@ button {
 }
 
 @media screen and (max-width: 768px) {
-  #experience .identity img {
+  #experience .company-logo img {
     width: 17px;
     height: 17px;
   }
